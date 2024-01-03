@@ -5,6 +5,8 @@ import org.redisson.api.RSet;
 import org.redisson.api.RedissonClient;
 import org.redisson.config.Config;
 
+import java.util.Date;
+
 
 public class Test {
     public static void main(String[] args) throws InterruptedException {
@@ -23,6 +25,7 @@ public class Test {
 //            student.setAge(i);
 //            student.setId(1L);
 //            student.setName("baiyan");
+//            student.setDate(new Date());
 //            studentSet.add(student);
 //        }
         System.out.println(studentSet.toString());

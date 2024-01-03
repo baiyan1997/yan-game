@@ -1,6 +1,5 @@
 package cn.baiyan.message;
 
-import org.bson.json.JsonObject;
 import org.json.JSONObject;
 
 import java.net.InetSocketAddress;

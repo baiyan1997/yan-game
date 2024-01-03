@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Core" />
+        <module name="yan-game" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Core" target="8" />
       <module name="core-parent" target="8" />
       <module name="Hotswap" target="8" />
       <module name="hotswap" target="8" />

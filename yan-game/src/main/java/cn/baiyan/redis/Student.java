@@ -1,6 +1,7 @@
 package cn.baiyan.redis;
 
 import java.io.Serializable;
+import java.util.Date;
 
 public class Student implements Serializable {
     private Long id;

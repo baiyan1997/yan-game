@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.core</groupId>
-    <artifactId>Core</artifactId>
+    <groupId>org.yan</groupId>
+    <artifactId>yan-game</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>Core</name>
+    <name>yan-game</name>
 
     <properties>
         <revision>1.0.0</revision>
@@ -82,8 +82,8 @@
 
         <dependency>
             <groupId>org.mongodb</groupId>
-            <artifactId>mongodb-driver-core</artifactId>
-            <version>4.7.1</version>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>3.2.2</version>
         </dependency>
 
         <!-- 日志系统 -->

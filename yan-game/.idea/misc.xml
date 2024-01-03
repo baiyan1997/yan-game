@@ -9,9 +9,9 @@
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/Hotswap/pom.xml" />
         <option value="$PROJECT_DIR$/../hotswap/hotswap-agent/pom.xml" />
         <option value="$PROJECT_DIR$/../hotswap/hotswap-util/pom.xml" />
+        <option value="$PROJECT_DIR$/Hotswap/pom.xml" />
       </set>
     </option>
   </component>

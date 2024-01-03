@@ -1,0 +1,18 @@
+[14:35:19][main] - Redisson 3.8.2
+[14:35:19][redisson-netty-1-9] - 1 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:35:19][redisson-netty-1-4] - 32 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:46:41][main] - Redisson 3.8.2
+[14:46:42][redisson-netty-1-2] - 1 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:46:42][redisson-netty-1-4] - 32 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:46:52][main] - Redisson 3.8.2
+[14:46:53][redisson-netty-1-10] - 1 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:46:53][redisson-netty-1-4] - 32 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:48:35][main] - Redisson 3.8.2
+[14:48:35][redisson-netty-1-8] - 1 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:48:35][redisson-netty-1-4] - 32 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:50:04][main] - Redisson 3.8.2
+[14:50:05][redisson-netty-1-1] - 1 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:50:05][redisson-netty-1-4] - 32 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:50:20][main] - Redisson 3.8.2
+[14:50:21][redisson-netty-1-9] - 1 connections initialized for 8.138.84.182/8.138.84.182:6379
+[14:50:21][redisson-netty-1-4] - 32 connections initialized for 8.138.84.182/8.138.84.182:6379
