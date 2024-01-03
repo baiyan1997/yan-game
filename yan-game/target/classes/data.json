@@ -1,0 +1,4871 @@
+{
+  "@Tool": "github.com/davyxu/tabtoy",
+  "@Version": "3.1.4",
+  "change": [
+    {
+      "id": 1,
+      "itemId": 1001,
+      "key": "ASDSAD1",
+      "num": 1
+    },
+    {
+      "id": 2,
+      "itemId": 1002,
+      "key": "ASDSAD2",
+      "num": 1
+    },
+    {
+      "id": 3,
+      "itemId": 1003,
+      "key": "ASDSAD3",
+      "num": 1
+    },
+    {
+      "id": 4,
+      "itemId": 1004,
+      "key": "ASDSAD4",
+      "num": 1
+    },
+    {
+      "id": 5,
+      "itemId": 1006,
+      "key": "ASDSAD5",
+      "num": 1
+    },
+    {
+      "id": 6,
+      "itemId": 1007,
+      "key": "ASDSAD6",
+      "num": 1
+    },
+    {
+      "id": 7,
+      "itemId": 1008,
+      "key": "ASDSAD7",
+      "num": 1
+    },
+    {
+      "id": 8,
+      "itemId": 1009,
+      "key": "ASDSAD8",
+      "num": 1
+    },
+    {
+      "id": 9,
+      "itemId": 1010,
+      "key": "ASDSAD9",
+      "num": 1
+    },
+    {
+      "id": 10,
+      "itemId": 1011,
+      "key": "ASDSAD10",
+      "num": 1
+    },
+    {
+      "id": 11,
+      "itemId": 1012,
+      "key": "ASDSAD11",
+      "num": 1
+    },
+    {
+      "id": 12,
+      "itemId": 1013,
+      "key": "ASDSAD12",
+      "num": 1
+    },
+    {
+      "id": 13,
+      "itemId": 1014,
+      "key": "ASDSAD13",
+      "num": 1
+    },
+    {
+      "id": 14,
+      "itemId": 1015,
+      "key": "ASDSAD14",
+      "num": 1
+    },
+    {
+      "id": 15,
+      "itemId": 1016,
+      "key": "ASDSAD15",
+      "num": 1
+    },
+    {
+      "id": 16,
+      "itemId": 1017,
+      "key": "ASDSAD16",
+      "num": 1
+    }
+  ],
+  "checkPoint": [
+    {
+      "arTid": "guanqia3",
+      "desc1": "青海",
+      "desc2": "青海湖",
+      "desc3": "",
+      "desc4": "changjing3",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,9:10",
+      "id": 3
+    },
+    {
+      "arTid": "guanqia5",
+      "desc1": "安徽",
+      "desc2": "巣湖",
+      "desc3": "",
+      "desc4": "changjing5",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,11:10",
+      "id": 5
+    },
+    {
+      "arTid": "guanqia10",
+      "desc1": "重庆",
+      "desc2": "大洪湖",
+      "desc3": "",
+      "desc4": "changjing10",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,16:10",
+      "id": 10
+    },
+    {
+      "arTid": "guanqia12",
+      "desc1": "湖南",
+      "desc2": "洞庭湖",
+      "desc3": "",
+      "desc4": "changjing12",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,18:10",
+      "id": 12
+    },
+    {
+      "arTid": "guanqia20",
+      "desc1": "贵州",
+      "desc2": "百花湖",
+      "desc3": "",
+      "desc4": "changjing20",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,26:10",
+      "id": 20
+    },
+    {
+      "arTid": "guanqia21",
+      "desc1": "江苏",
+      "desc2": "太湖",
+      "desc3": "",
+      "desc4": "changjing21",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,27:10",
+      "id": 21
+    },
+    {
+      "arTid": "guanqia28",
+      "desc1": "河北",
+      "desc2": "秦皇岛",
+      "desc3": "",
+      "desc4": "changjing28",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,34:10",
+      "id": 28
+    },
+    {
+      "arTid": "guanqia31",
+      "desc1": "广东",
+      "desc2": "海陵岛",
+      "desc3": "",
+      "desc4": "changjing31",
+      "fishWeight": "1:20,2:20,3:20,4:20,5:20,37:10",
+      "id": 31
+    }
+  ],
+  "fish": [
+    {
+      "artid": "yu1",
+      "blood": 10000,
+      "captureRate": 95,
+      "desPlace": "白条鱼是一种中上层鱼类，喜欢在清澈的河流、湖泊和水库中生活。它们游泳迅速，喜欢在水中快速游动。白条鱼的食性较杂，以小型水生生物和浮游生物为食。",
+      "escapeRate": 5,
+      "fishName": "白条鱼",
+      "id": 1,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 30,
+      "speedParam": 30,
+      "speedPercentage": 0.2,
+      "speedTime": "4:6",
+      "type1": 1
+    },
+    {
+      "artid": "yu2",
+      "blood": 10001,
+      "captureRate": 95,
+      "desPlace": "罗非鱼是杂食性鱼类，以植物为主的食性随着鱼体生长逐渐转为以植物饲料为主，人工养殖条件下消化道内含物大部分是有机碎屑和其他植物性饲料，其次是浮游植物，最后是浮游动物、水蚯蚓、摇蚊幼虫等底栖动物。",
+      "escapeRate": 5,
+      "fishName": "罗非鱼",
+      "id": 2,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 34,
+      "speedParam": 30,
+      "speedPercentage": 0.2,
+      "speedTime": "2:5",
+      "type1": 1
+    },
+    {
+      "artid": "yu3",
+      "blood": 10002,
+      "captureRate": 95,
+      "desPlace": "草鱼是一种中下层鱼类，喜欢在清澈的河流、湖泊和水库中生活。它们游泳迅速，喜欢在水中快速游动。草鱼以植物性食物为主食，如水草、浮萍、水生植物的嫩叶和藻类等。",
+      "escapeRate": 5,
+      "fishName": "草鱼",
+      "id": 3,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 32,
+      "speedParam": 30,
+      "speedPercentage": 0.2,
+      "speedTime": "2:6",
+      "type1": 1
+    },
+    {
+      "artid": "yu4",
+      "blood": 20000,
+      "captureRate": 95,
+      "desPlace": "青鱼是一种中下层鱼类，喜欢在清澈的河流、湖泊和水库中生活。它们游泳迅速，喜欢在水中快速游动。青鱼以动物性食物为主食，如螺蛳、蚌、蚬等，同时也食用植物性食物如水草、浮萍、藻类等。",
+      "escapeRate": 5,
+      "fishName": "青鱼",
+      "id": 4,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 36,
+      "speedParam": 30,
+      "speedPercentage": 0.2,
+      "speedTime": "2:6",
+      "type1": 1
+    },
+    {
+      "artid": "yu5",
+      "blood": 20001,
+      "captureRate": 65,
+      "desPlace": "鲫鱼是一种底层鱼类，喜欢在江河、湖泊、水库等淡水环境中生活。它们游泳速度较慢，喜欢在水中缓慢游动。鲫鱼以小型水生生物和浮游生物为食，如浮游植物、浮游动物等。",
+      "escapeRate": 35,
+      "fishName": "鲫鱼",
+      "id": 5,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 32,
+      "speedParam": 30,
+      "speedPercentage": 0.2,
+      "speedTime": "4:6",
+      "type1": 1
+    },
+    {
+      "artid": "yu6",
+      "blood": 20002,
+      "captureRate": 65,
+      "desPlace": "鳙鱼是一种中下层鱼类，喜欢在江河、湖泊、水库等淡水环境中生活。它们游泳迅速，喜欢在水中快速游动。鳙鱼以小型水生生物和浮游生物为食，如浮游植物、浮游动物等。鳙鱼会在夏季到浅水区觅食，冬季则到深水区越冬。",
+      "escapeRate": 35,
+      "fishName": "鳙鱼",
+      "id": 6,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 40,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "3:6",
+      "type1": 2
+    },
+    {
+      "artid": "yu7",
+      "blood": 20003,
+      "captureRate": 45,
+      "desPlace": "翘嘴鱼是一种中上层鱼类，喜欢在江河、湖泊、水库等淡水环境中生活。它们游泳迅速，喜欢在水中快速游动。翘嘴鱼以小型水生生物和浮游生物为食",
+      "escapeRate": 55,
+      "fishName": "翘嘴",
+      "id": 7,
+      "maxWeight": 5,
+      "minWeight": 1,
+      "priceParam": 10,
+      "speed": 41,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "4:7",
+      "type1": 2
+    },
+    {
+      "artid": "yu8",
+      "blood": 20004,
+      "captureRate": 35,
+      "desPlace": "鲫花鱼属于鲤科、觞亚科，是较为名贵的中小型鱼类。该鱼主要分布于江河、湖泊、水库等水域中，喜欢在水质清澈的水域中生活。季花鱼主要以小鱼虾和微生物为食。",
+      "escapeRate": 65,
+      "fishName": "鲫花鱼",
+      "id": 8,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 10,
+      "speed": 43,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "3:6",
+      "type1": 2
+    },
+    {
+      "artid": "yu9",
+      "blood": 20005,
+      "captureRate": 35,
+      "desPlace": "岛子鱼主要分布在我国的淡水流域，如黄河、长江、黑龙江、闽江、珠江等流域，因为它们的适应性不错，所以在南方和北方都有它们的身影。",
+      "escapeRate": 65,
+      "fishName": "岛子鱼",
+      "id": 9,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 10,
+      "speed": 39,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "4:6",
+      "type1": 2
+    },
+    {
+      "artid": "yu10",
+      "blood": 20006,
+      "captureRate": 35,
+      "desPlace": "多鳞白甲鱼主要分布于中国的长江、淮河、渭河、海河上游的滹沱河与大清河。它喜欢栖息于山溪流水中，为底层鱼类，常常在石边或乱石空隙中活动。这种鱼会借山涧熔岩裂缝与溶洞的泉水越冬，10月后入泉越冬，翌年4月中旬出泉。出泉时间多集中在下半夜，出泉时头朝下、尾向外，集群而出。",
+      "escapeRate": 65,
+      "fishName": "多鳞白甲鱼",
+      "id": 10,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 11,
+      "speed": 45,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "2:5",
+      "type1": 2
+    },
+    {
+      "artid": "yu11",
+      "blood": 20007,
+      "captureRate": 35,
+      "desPlace": "秦岭细鳞鲑多栖息于水流湍急、水质清澈、水底为砾石的河段，水温低于20度。在秋末，它们会在深水潭或河道的深槽中越冬。这种鱼是肉食性鱼类，幼鱼主要以水生无脊椎动物为食，而成鱼则除了摄食鱼类外，还食被风吹落的陆生昆虫。它们的摄食时间多集中于早晚前后，阴天摄食活动频繁，全天均可见到。",
+      "escapeRate": 65,
+      "fishName": "秦岭细鳞鲑",
+      "id": 11,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 12,
+      "speed": 48,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "2:6",
+      "type1": 3
+    },
+    {
+      "artid": "yu12",
+      "blood": 20008,
+      "captureRate": 35,
+      "desPlace": "川陕哲罗鲑是一种属于鲑形目鲑科的鱼类，别名为长江哲罗鲑、布氏哲罗鲑、虎嘉鱼、虎鱼、猫鱼。体形修长，最大者体长可达2米左右。",
+      "escapeRate": 65,
+      "fishName": "川陕哲罗鲑",
+      "id": 12,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 13,
+      "speed": 48,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "4:6",
+      "type1": 3
+    },
+    {
+      "artid": "yu13",
+      "blood": 20009,
+      "captureRate": 35,
+      "desPlace": "黄石爬鮡是一种特有于长江上游的中小型底栖鱼类，主要分布在金沙江、岷江水系。它们通常生活在河流砾石滩上，以水生昆虫及其幼虫为食。",
+      "escapeRate": 65,
+      "fishName": "黄石爬鮡",
+      "id": 13,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 11,
+      "speed": 50,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "4:6",
+      "type1": 3
+    },
+    {
+      "artid": "yu14",
+      "blood": 20010,
+      "captureRate": 35,
+      "desPlace": "黑斑原鮡是一种属于鲇形目鮡科的鱼类，是鮡科鱼类中分布海拔最高的种类，主要分布在雅鲁藏布江水系，可以到达海拔约4500米的水域。",
+      "escapeRate": 65,
+      "fishName": "黑斑原鮡",
+      "id": 14,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 12,
+      "speed": 52,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "3:6",
+      "type1": 3
+    },
+    {
+      "artid": "yu15",
+      "blood": 20011,
+      "captureRate": 35,
+      "desPlace": "拉萨裂腹鱼是一种鲤形目鲤科鱼类，是裂腹鱼的一种，因在拉萨地区有分布而得名。",
+      "escapeRate": 65,
+      "fishName": "拉萨裂腹鱼",
+      "id": 15,
+      "maxWeight": 8,
+      "minWeight": 2,
+      "priceParam": 13,
+      "speed": 53,
+      "speedParam": 40,
+      "speedPercentage": 0.3,
+      "speedTime": "4:7",
+      "type1": 3
+    },
+    {
+      "artid": "yu16",
+      "blood": 20012,
+      "captureRate": 35,
+      "desPlace": "巢湖银鱼因产于安徽省合肥市的巢湖而得名，是安徽省的特产之一。巢湖处于亚热带和暖温带过渡性的副热带季风气候区，气候温和湿润，湖区总体气候特点是季风明显、四季分明、气候温和、雨量充沛、光照充足，这为巢湖银鱼提供了适宜的生长环境。",
+      "escapeRate": 65,
+      "fishName": "巢湖银鱼",
+      "id": 16,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 59,
+      "speedPercentage": 0.2,
+      "speedTime": "3:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu17",
+      "blood": 20013,
+      "captureRate": 35,
+      "desPlace": "刀鱼是一种生活在海洋中的大型鱼类，体形较长，头部较大，嘴巴较小，有一对较大的胸鳍和一对较小的背鳍。它的身体呈灰褐色，腹部是白色的。刀鱼的食物主要包括小鱼、虾、蟹、鱿鱼等。",
+      "escapeRate": 65,
+      "fishName": "刀鱼",
+      "id": 17,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 59,
+      "speedPercentage": 0.2,
+      "speedTime": "4:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu18",
+      "blood": 20014,
+      "captureRate": 35,
+      "desPlace": "抚远大马哈鱼，又称鲑鱼，属于鲑形目、鲑科，是一种在海中孵化孵出幼鱼，然后再到淡水中成长的大型溯河鱼类。",
+      "escapeRate": 65,
+      "fishName": "抚远大马哈鱼",
+      "id": 18,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 59,
+      "speedPercentage": 0.2,
+      "speedTime": "2:5",
+      "type1": 4
+    },
+    {
+      "artid": "yu19",
+      "blood": 20015,
+      "captureRate": 35,
+      "desPlace": "抚远鳇鱼是一种淡水鱼类，学名为达氏鳇，属于软骨鱼类，是黑龙江省的特产鱼类之一。这种鱼体形巨大，寿命长，具有强大的生命力和适应性，被誉为“淡水鱼王”和“水中活化石”。",
+      "escapeRate": 65,
+      "fishName": "抚远鳇鱼",
+      "id": 19,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 59,
+      "speedPercentage": 0.2,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu20",
+      "blood": 20016,
+      "captureRate": 35,
+      "desPlace": "鳤鱼，又被称为刁子、昌刁、才刁，属于鲤形目鲤科鳤属，是一种中小型鱼类。",
+      "escapeRate": 65,
+      "fishName": "鳤鱼",
+      "id": 20,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 59,
+      "speedPercentage": 0.2,
+      "speedTime": "4:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu21",
+      "blood": 20017,
+      "captureRate": 35,
+      "desPlace": "针贡鱼，又称针公鱼，是一种生活在海洋中的中小型鱼类，属于颌针鱼目。针贡鱼主要分布在全球各个热带和温带海域，特别是在太平洋、大西洋和印度洋的热带和温带地区。它们通常生活在浅海区域，水深从浅滩到深海不等。",
+      "escapeRate": 65,
+      "fishName": "针贡鱼",
+      "id": 21,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 40,
+      "speedPercentage": 0.6,
+      "speedTime": "4:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu22",
+      "blood": 20018,
+      "captureRate": 35,
+      "desPlace": "新疆北鲵新疆的温泉、伊宁、霍城、塔城等地。生活于海拔1800—3200米的山地草原地带，栖息于涌泉形成的小溪或沼泽内。",
+      "escapeRate": 65,
+      "fishName": "新疆北鲵",
+      "id": 22,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 40,
+      "speedPercentage": 0.6,
+      "speedTime": "3:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu23",
+      "blood": 20019,
+      "captureRate": 35,
+      "desPlace": "新疆大头鱼是一种生长迅速、口感鲜美、肉质细腻的淡水鱼，被称为“新疆三大名鱼”之一。",
+      "escapeRate": 65,
+      "fishName": "新疆大头鱼",
+      "id": 23,
+      "maxWeight": 14,
+      "minWeight": 4,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 40,
+      "speedPercentage": 0.6,
+      "speedTime": "4:7",
+      "type1": 4
+    },
+    {
+      "artid": "yu24",
+      "blood": 20020,
+      "captureRate": 35,
+      "desPlace": "抚仙湖抗浪鱼是云南抚仙湖独有的鱼种，其个头不大，只有五六寸长，外形苗条美丽，像一个永远长不大的小公主。这种鱼生活在湖中的礁石、鱼洞中，数量众多，但被当地人称为海蛆，真名叫抗浪鱼。",
+      "escapeRate": 65,
+      "fishName": "抚仙湖抗浪鱼",
+      "id": 24,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 40,
+      "speedPercentage": 0.6,
+      "speedTime": "3:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu25",
+      "blood": 20021,
+      "captureRate": 35,
+      "desPlace": "抚仙湖的红脸青鱼是一种美丽而稀有的淡水鱼类，主要分布在云南的抚仙湖地区。它们的体形较大，最长可达1米以上，身体修长，呈现出青绿色或淡绿色，腹部有一些淡黄色或白色。",
+      "escapeRate": 65,
+      "fishName": "红脸青鱼",
+      "id": 25,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 50,
+      "speedPercentage": 0.6,
+      "speedTime": "2:4",
+      "type1": 4
+    },
+    {
+      "artid": "yu26",
+      "blood": 20022,
+      "captureRate": 35,
+      "desPlace": "中华鲟是一种非常珍贵的淡水鱼类，被称为“水中大熊猫”和“水中活化石”，主要分布在中国长江流域和周边湖泊中。中华鲟的体形较大，一般身长可达2米以上",
+      "escapeRate": 65,
+      "fishName": "中华鲟",
+      "id": 26,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 50,
+      "speedPercentage": 0.6,
+      "speedTime": "1:3",
+      "type1": 4
+    },
+    {
+      "artid": "yu27",
+      "blood": 20023,
+      "captureRate": 35,
+      "desPlace": "胭脂鱼是一种生长在中国长江水系的淡水鱼类，属于鲤形目，亚口鱼科。它的体形奇特，色彩鲜艳，尤其在幼年阶段，体形别致，色彩绚丽，被人们荣称为“一帆风顺”。",
+      "escapeRate": 65,
+      "fishName": "胭脂鱼",
+      "id": 27,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:5",
+      "type1": 4
+    },
+    {
+      "artid": "yu28",
+      "blood": 20024,
+      "captureRate": 35,
+      "desPlace": "马口鱼主要分布于朝鲜、日本以及中国南起海南岛、北至黑龙江流域中国东部各江河。它生活在各种水体中，尤喜石底的山涧急流。马口鱼以小型鱼类和水生昆虫为主要食物",
+      "escapeRate": 65,
+      "fishName": "马口鱼",
+      "id": 28,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu29",
+      "blood": 20025,
+      "captureRate": 35,
+      "desPlace": "黄河鲤鱼它喜欢栖息于水草丛中和流速缓慢的松软河底，很少上浮。属于杂食性动物，以虾、虫、螺、蚌及水草、藻类为食。",
+      "escapeRate": 65,
+      "fishName": "黄河鲤鱼",
+      "id": 29,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu30",
+      "blood": 20026,
+      "captureRate": 35,
+      "desPlace": "鱤鱼是一种大型凶猛的鱼类，在我国除西北、西南之外，从北至南平原地区的水系中都有分布。它生活在江河、湖泊的中上层，游泳迅速，行动敏捷，主要以鱼类为食。",
+      "escapeRate": 65,
+      "fishName": "鱤鱼",
+      "id": 30,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "3:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu31",
+      "blood": 20027,
+      "captureRate": 35,
+      "desPlace": "沅江银鱼因全身透明，色泽如银而得名，可清晰地看到其血液脉络及肠道。沅江银鱼因生存环境独特，对水质、环境要求极高，具有极高的营养价值，富含蛋白质、多种氨基酸、微量元素和维生素。",
+      "escapeRate": 65,
+      "fishName": "沅江银鱼",
+      "id": 31,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:4",
+      "type1": 4
+    },
+    {
+      "artid": "yu32",
+      "blood": 20028,
+      "captureRate": 35,
+      "desPlace": "江鲟鱼是长江中特有的珍稀物种之一，也是中国重点保护动物之一。它们主要生活在长江上游及其支流中，喜欢栖息于流水清澈、水温低、水深较浅的水域。长江鲟鱼是淡水鱼类中的“长寿者”，寿命长达30年以上，因此数量逐渐减少，目前已经被列为濒危物种。",
+      "escapeRate": 65,
+      "fishName": "长江鲟鱼",
+      "id": 32,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:3",
+      "type1": 4
+    },
+    {
+      "artid": "yu33",
+      "blood": 20029,
+      "captureRate": 35,
+      "desPlace": "武昌鱼是一种具有适应各种环境的生存能力的淡水鱼类，主要分布在中国长江流域的江河、湖泊和水库中。",
+      "escapeRate": 65,
+      "fishName": "武昌鱼",
+      "id": 33,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:5",
+      "type1": 4
+    },
+    {
+      "artid": "yu34",
+      "blood": 20030,
+      "captureRate": 35,
+      "desPlace": "白鲢鱼是一种典型的滤食性鱼类，主要生活在淡水湖泊、河流、水库等水域中，是水域中的中上层鱼类。它们喜欢集群生活，以浮游植物和浮游动物为食。白鲢鱼是一种生长迅速、繁殖力强的鱼类，是我国重要的淡水养殖鱼类之一。",
+      "escapeRate": 65,
+      "fishName": "白鲢鱼",
+      "id": 34,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu35",
+      "blood": 20031,
+      "captureRate": 35,
+      "desPlace": "花鲢鱼是中国分布极广的淡水鱼类，主要生活在江河干流、平缓的河湾、湖泊和水库的中上层。它们是温水性鱼类，适宜生长的水温为25～30℃，能适应较肥沃的水体环境。从鱼苗到成鱼阶段都是以浮游动物为主食，兼食浮游植物，是典型的浮游生物食性的鱼类。",
+      "escapeRate": 65,
+      "fishName": "花鲢鱼",
+      "id": 35,
+      "maxWeight": 26,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu36",
+      "blood": 20032,
+      "captureRate": 35,
+      "desPlace": "赤眼鳟主要分布于中国珠江、闽江、钱塘江、长江、黄河等水系，以及朝鲜平壤和首尔等水系。它喜欢栖息于江河湖泊中，是淡水广温性的底层鱼类之一。",
+      "escapeRate": 65,
+      "fishName": "赤眼鳟",
+      "id": 36,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "3:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu37",
+      "blood": 20033,
+      "captureRate": 35,
+      "desPlace": "长须铜鱼是喜流水性鱼类，栖居于下层。集群，夜间活跃，在深潭或深水河槽越冬。一般2-3龄性成熟，4-6月的春夏之交，水温较高且水位上涨时在水流湍急的江段产卵，卵为漂流性。",
+      "escapeRate": 65,
+      "fishName": "长须铜鱼",
+      "id": 37,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:4",
+      "type1": 4
+    },
+    {
+      "artid": "yu38",
+      "blood": 20034,
+      "captureRate": 35,
+      "desPlace": "中华鳑鲏主要分布于中国各地淡水水域，尤其是长江、黄河、珠江等水系。它们喜欢栖息于清澈的缓流水体或静水体，常集群游动。中华鳑鲏具有适应各种环境的能力，可在不同水域条件下生存和繁殖。",
+      "escapeRate": 65,
+      "fishName": "中华鳑鲏",
+      "id": 38,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:3",
+      "type1": 4
+    },
+    {
+      "artid": "yu39",
+      "blood": 20035,
+      "captureRate": 35,
+      "desPlace": "逆鱼是一种具有适应各种环境的生存能力的淡水鱼类，主要分布在中国长江流域的江河、湖泊和水库中。",
+      "escapeRate": 65,
+      "fishName": "逆鱼",
+      "id": 39,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:5",
+      "type1": 4
+    },
+    {
+      "artid": "yu40",
+      "blood": 20036,
+      "captureRate": 35,
+      "desPlace": "河曲开河鱼是指在冰封黄河消融时所捕越冬之鱼，主要产自黄河上游的河曲地区。这种鱼在冬季处于休眠状态，冰封水下，安而不动，净化五脏，排解体表，储存营养，肝糖转化，养尊处优。因此，在春季开河之后，这些鱼会非常鲜嫩，肉质纯净无污，这也是它们被称为“开河鱼”的原因。",
+      "escapeRate": 65,
+      "fishName": "河曲开河鱼",
+      "id": 40,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu41",
+      "blood": 20037,
+      "captureRate": 35,
+      "desPlace": "鲫鱼王是一种大型鲫鱼，体长可达30厘米以上，体重可达半斤以上，背部呈青黑色，腹部为白色。这种鲫鱼在生态环境良好的湖泊和水库中生长，一般在水深不超过2米的水域中栖息。",
+      "escapeRate": 65,
+      "fishName": "鲫鱼王",
+      "id": 41,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu42",
+      "blood": 20038,
+      "captureRate": 35,
+      "desPlace": "呼伦湖白鱼主要生活在呼伦湖及其周边水域，喜欢栖息于浅水区域，以浮游动物、小型鱼类、虾类等为食。",
+      "escapeRate": 65,
+      "fishName": "呼伦湖白鱼",
+      "id": 42,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "3:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu43",
+      "blood": 20039,
+      "captureRate": 35,
+      "desPlace": "达里湖华子鱼是内蒙古自治区赤峰市克什克腾旗的特产，属于全国农产品地理标志。它们通常在每年的冬季进行生产，当地居民使用古老的冰下行大网的捕捞方式进行捕捞。",
+      "escapeRate": 65,
+      "fishName": "达里湖华子鱼",
+      "id": 43,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 11,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:4",
+      "type1": 4
+    },
+    {
+      "artid": "yu44",
+      "blood": 20040,
+      "captureRate": 35,
+      "desPlace": "金沙鲈鲤主要分布在中国的长江上游及其支流，以及澜沧江和怒江等水域。它们喜欢栖息于清澈的流水环境，以浮游生物和底栖生物为食。金沙鲈鲤是一种生长迅速、适应各种环境的鱼类，具有一定的经济价值和食用价值。",
+      "escapeRate": 65,
+      "fishName": "金沙鲈鲤",
+      "id": 44,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 12,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:3",
+      "type1": 4
+    },
+    {
+      "artid": "yu45",
+      "blood": 20041,
+      "captureRate": 35,
+      "desPlace": "四川白甲鱼主要分布在长江上游的支流和溪流中，特别是在四川、重庆、贵州等地区。它们喜欢栖息于清澈的流水环境，以浮游生物、小型鱼类、虾类等为食。四川白甲鱼是一种生长迅速、适应各种环境的鱼类，具有一定的经济价值和食用价值。",
+      "escapeRate": 65,
+      "fishName": "四川白甲鱼",
+      "id": 45,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 13,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:5",
+      "type1": 4
+    },
+    {
+      "artid": "yu46",
+      "blood": 20042,
+      "captureRate": 35,
+      "desPlace": "光唇裂腹鱼是一种体形稍侧扁的鱼类，具有头锥形、稍尖的特点，口下位，横裂，下颌具有锐利的角质，下唇分为两叶，无乳突，唇后沟中断。它们是下层鱼类，生活在江河流水中，以藻类和有机碎屑为食。光唇裂腹鱼主要分布于澜沧江中、上游",
+      "escapeRate": 65,
+      "fishName": "光唇裂腹鱼",
+      "id": 46,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 15,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu47",
+      "blood": 20043,
+      "captureRate": 35,
+      "desPlace": "灰裂腹鱼喜欢生活在清澈的河流中，通常在水流较缓的河段或湖泊中栖息。在自然环境中，幼鱼孵化后会逐渐在河流中成长，直到成熟后再回到产卵的地方产卵。",
+      "escapeRate": 65,
+      "fishName": "灰裂腹鱼",
+      "id": 47,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 15,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu48",
+      "blood": 20044,
+      "captureRate": 35,
+      "desPlace": "长江鲫鱼主要栖息于长江流域的干支流和河口水域，尤以中下游地区的水体最为适宜。它们属于底层鱼类，喜欢集群栖息在缓流区，以小型甲壳类动物、浮游生物、水生昆虫等为食。",
+      "escapeRate": 65,
+      "fishName": "长江鲫鱼",
+      "id": 48,
+      "maxWeight": 36,
+      "minWeight": 12,
+      "priceParam": 15,
+      "speed": 60,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu49",
+      "blood": 20045,
+      "captureRate": 35,
+      "desPlace": "太湖银鱼因全身透明，色泽如银而得名，可清晰地看到其血液，在水草丛生的太湖流域皆可生长。其肉质细嫩，营养丰富，被誉为太湖三宝之一。",
+      "escapeRate": 65,
+      "fishName": "太湖银鱼",
+      "id": 49,
+      "maxWeight": 100,
+      "minWeight": 1,
+      "priceParam": 15,
+      "speed": 0,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:3",
+      "type1": 4
+    },
+    {
+      "artid": "yu50",
+      "blood": 20046,
+      "captureRate": 35,
+      "desPlace": "花鳗鲡主要栖息于浅海水域，在海水和淡水的水域中都可以生存。它们喜欢栖息于砂质或砂泥底质的水域底部，常常潜伏在水底，很少游动。主要以小型鱼类、虾、蟹、甲壳类为食。",
+      "escapeRate": 65,
+      "fishName": "花鳗鲡",
+      "id": 50,
+      "maxWeight": 100,
+      "minWeight": 1,
+      "priceParam": 15,
+      "speed": 0,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:5",
+      "type1": 4
+    },
+    {
+      "artid": "yu51",
+      "blood": 20047,
+      "captureRate": 20,
+      "desPlace": "三角鲂喜欢栖息于水域的中下层，一般在水库、湖泊等大型水域中生存。它们属于杂食性鱼类，以浮游生物、小型鱼类、虾、蟹等为食。",
+      "escapeRate": 15,
+      "fishName": "三角鲂",
+      "id": 51,
+      "maxWeight": 100,
+      "minWeight": 1,
+      "priceParam": 15,
+      "speed": 0,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu52",
+      "blood": 20048,
+      "captureRate": 20,
+      "desPlace": "梭鱼喜欢栖息于江河湖泊等大型水域中，属于中下层鱼类，常常在水的中下层游动。它们以浮游生物、小型鱼类、虾、蟹等为食。",
+      "escapeRate": 15,
+      "fishName": "梭鱼",
+      "id": 52,
+      "maxWeight": 100,
+      "minWeight": 1,
+      "priceParam": 15,
+      "speed": 0,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "1:6",
+      "type1": 4
+    },
+    {
+      "artid": "yu53",
+      "blood": 20049,
+      "captureRate": 20,
+      "desPlace": "翅鲤鱼是一种体型较大的淡水鱼类，体长一般为50-80厘米，体重可达10公斤。它的体形较扁平，头部较小，口较小，下颌稍突出。鳞片中等大小，排列紧密，背鳍和臀鳍较长且宽阔。体色为金黄色，腹部为银白色，整个鱼身有许多浅蓝色的波纹和斑点。",
+      "escapeRate": 15,
+      "fishName": "金翅鲤鱼",
+      "id": 53,
+      "maxWeight": 100,
+      "minWeight": 1,
+      "priceParam": 15,
+      "speed": 0,
+      "speedParam": 60,
+      "speedPercentage": 0.6,
+      "speedTime": "2:6",
+      "type1": 4
+    }
+  ],
+  "item": [
+    {
+      "artid": "diaoer",
+      "desc": "1星钓饵",
+      "desc2": "增加1星鱼咬钩的几率",
+      "id": 1100,
+      "ord": 0,
+      "param": 20,
+      "paramType": 3,
+      "price": 50,
+      "quality": 1,
+      "type1": 3
+    },
+    {
+      "artid": "diaoer2",
+      "desc": "2星钓饵",
+      "desc2": "增加2星鱼咬钩的几率",
+      "id": 1110,
+      "ord": 0,
+      "param": 20,
+      "paramType": 3,
+      "price": 50,
+      "quality": 2,
+      "type1": 3
+    },
+    {
+      "artid": "diaoer3",
+      "desc": "3星钓饵",
+      "desc2": "增加3星鱼咬钩的几率",
+      "id": 1120,
+      "ord": 0,
+      "param": 20,
+      "paramType": 3,
+      "price": 100,
+      "quality": 3,
+      "type1": 3
+    },
+    {
+      "artid": "diaoer4",
+      "desc": "4星钓饵",
+      "desc2": "增加4星鱼咬钩的几率",
+      "id": 1130,
+      "ord": 0,
+      "param": 20,
+      "paramType": 3,
+      "price": 150,
+      "quality": 4,
+      "type1": 3
+    },
+    {
+      "artid": "diaoer5",
+      "desc": "5星钓饵",
+      "desc2": "增加5星鱼咬钩的几率",
+      "id": 1140,
+      "ord": 0,
+      "param": 20,
+      "paramType": 3,
+      "price": 200,
+      "quality": 5,
+      "type1": 3
+    },
+    {
+      "artid": "woliao",
+      "desc": "1星窝料",
+      "desc2": "增加1星鱼咬钩的几率",
+      "id": 1200,
+      "ord": 0,
+      "param": 20,
+      "paramType": 4,
+      "price": 50,
+      "quality": 1,
+      "type1": 4
+    },
+    {
+      "artid": "woliao2",
+      "desc": "2星窝料",
+      "desc2": "增加2星鱼咬钩的几率",
+      "id": 1210,
+      "ord": 0,
+      "param": 20,
+      "paramType": 4,
+      "price": 50,
+      "quality": 2,
+      "type1": 4
+    },
+    {
+      "artid": "woliao3",
+      "desc": "3星窝料",
+      "desc2": "增加3星鱼咬钩的几率",
+      "id": 1220,
+      "ord": 0,
+      "param": 20,
+      "paramType": 4,
+      "price": 100,
+      "quality": 3,
+      "type1": 4
+    },
+    {
+      "artid": "woliao4",
+      "desc": "4星窝料",
+      "desc2": "增加4星鱼咬钩的几率",
+      "id": 1230,
+      "ord": 0,
+      "param": 20,
+      "paramType": 4,
+      "price": 150,
+      "quality": 4,
+      "type1": 4
+    },
+    {
+      "artid": "woliao5",
+      "desc": "5星窝料",
+      "desc2": "增加5星鱼咬钩的几率",
+      "id": 1240,
+      "ord": 0,
+      "param": 20,
+      "paramType": 4,
+      "price": 200,
+      "quality": 5,
+      "type1": 4
+    }
+  ],
+  "itemLv": [
+    {
+      "cost": 0,
+      "id": 13001,
+      "lv": 1,
+      "param": 5
+    },
+    {
+      "cost": 10,
+      "id": 13002,
+      "lv": 2,
+      "param": 5.1
+    },
+    {
+      "cost": 11,
+      "id": 13003,
+      "lv": 3,
+      "param": 5.2
+    },
+    {
+      "cost": 12,
+      "id": 13004,
+      "lv": 4,
+      "param": 5.3
+    },
+    {
+      "cost": 13,
+      "id": 13005,
+      "lv": 5,
+      "param": 5.4
+    },
+    {
+      "cost": 15,
+      "id": 13006,
+      "lv": 6,
+      "param": 5.5
+    },
+    {
+      "cost": 17,
+      "id": 13007,
+      "lv": 7,
+      "param": 5.6
+    },
+    {
+      "cost": 19,
+      "id": 13008,
+      "lv": 8,
+      "param": 5.7
+    },
+    {
+      "cost": 22,
+      "id": 13009,
+      "lv": 9,
+      "param": 5.8
+    },
+    {
+      "cost": 25,
+      "id": 130010,
+      "lv": 10,
+      "param": 5.9
+    },
+    {
+      "cost": 28,
+      "id": 130011,
+      "lv": 11,
+      "param": 6
+    },
+    {
+      "cost": 32,
+      "id": 130012,
+      "lv": 12,
+      "param": 6.1
+    },
+    {
+      "cost": 36,
+      "id": 130013,
+      "lv": 13,
+      "param": 6.2
+    },
+    {
+      "cost": 40,
+      "id": 130014,
+      "lv": 14,
+      "param": 6.3
+    },
+    {
+      "cost": 44,
+      "id": 130015,
+      "lv": 15,
+      "param": 6.4
+    },
+    {
+      "cost": 49,
+      "id": 130016,
+      "lv": 16,
+      "param": 6.5
+    },
+    {
+      "cost": 54,
+      "id": 130017,
+      "lv": 17,
+      "param": 6.6
+    },
+    {
+      "cost": 59,
+      "id": 130018,
+      "lv": 18,
+      "param": 6.7
+    },
+    {
+      "cost": 64,
+      "id": 130019,
+      "lv": 19,
+      "param": 6.8
+    },
+    {
+      "cost": 70,
+      "id": 130020,
+      "lv": 20,
+      "param": 6.9
+    },
+    {
+      "cost": 75,
+      "id": 130021,
+      "lv": 21,
+      "param": 7
+    },
+    {
+      "cost": 81,
+      "id": 130022,
+      "lv": 22,
+      "param": 7.1
+    },
+    {
+      "cost": 88,
+      "id": 130023,
+      "lv": 23,
+      "param": 7.2
+    },
+    {
+      "cost": 94,
+      "id": 130024,
+      "lv": 24,
+      "param": 7.3
+    },
+    {
+      "cost": 101,
+      "id": 130025,
+      "lv": 25,
+      "param": 7.4
+    },
+    {
+      "cost": 108,
+      "id": 130026,
+      "lv": 26,
+      "param": 7.5
+    },
+    {
+      "cost": 115,
+      "id": 130027,
+      "lv": 27,
+      "param": 7.6
+    },
+    {
+      "cost": 123,
+      "id": 130028,
+      "lv": 28,
+      "param": 7.7
+    },
+    {
+      "cost": 130,
+      "id": 130029,
+      "lv": 29,
+      "param": 7.8
+    },
+    {
+      "cost": 138,
+      "id": 130030,
+      "lv": 30,
+      "param": 7.9
+    },
+    {
+      "cost": 146,
+      "id": 130031,
+      "lv": 31,
+      "param": 8
+    },
+    {
+      "cost": 147,
+      "id": 130032,
+      "lv": 32,
+      "param": 8.1
+    },
+    {
+      "cost": 147,
+      "id": 130033,
+      "lv": 33,
+      "param": 8.2
+    },
+    {
+      "cost": 148,
+      "id": 130034,
+      "lv": 34,
+      "param": 8.3
+    },
+    {
+      "cost": 150,
+      "id": 130035,
+      "lv": 35,
+      "param": 8.4
+    },
+    {
+      "cost": 151,
+      "id": 130036,
+      "lv": 36,
+      "param": 8.5
+    },
+    {
+      "cost": 153,
+      "id": 130037,
+      "lv": 37,
+      "param": 8.6
+    },
+    {
+      "cost": 155,
+      "id": 130038,
+      "lv": 38,
+      "param": 8.7
+    },
+    {
+      "cost": 157,
+      "id": 130039,
+      "lv": 39,
+      "param": 8.8
+    },
+    {
+      "cost": 159,
+      "id": 130040,
+      "lv": 40,
+      "param": 8.9
+    },
+    {
+      "cost": 162,
+      "id": 130041,
+      "lv": 41,
+      "param": 9
+    },
+    {
+      "cost": 164,
+      "id": 130042,
+      "lv": 42,
+      "param": 9.1
+    },
+    {
+      "cost": 167,
+      "id": 130043,
+      "lv": 43,
+      "param": 9.2
+    },
+    {
+      "cost": 170,
+      "id": 130044,
+      "lv": 44,
+      "param": 9.3
+    },
+    {
+      "cost": 173,
+      "id": 130045,
+      "lv": 45,
+      "param": 9.4
+    },
+    {
+      "cost": 176,
+      "id": 130046,
+      "lv": 46,
+      "param": 9.5
+    },
+    {
+      "cost": 180,
+      "id": 130047,
+      "lv": 47,
+      "param": 9.6
+    },
+    {
+      "cost": 184,
+      "id": 130048,
+      "lv": 48,
+      "param": 9.7
+    },
+    {
+      "cost": 187,
+      "id": 130049,
+      "lv": 49,
+      "param": 9.8
+    },
+    {
+      "cost": 191,
+      "id": 130050,
+      "lv": 50,
+      "param": 9.9
+    },
+    {
+      "cost": 195,
+      "id": 130051,
+      "lv": 51,
+      "param": 10
+    },
+    {
+      "cost": 198,
+      "id": 130052,
+      "lv": 52,
+      "param": 10.1
+    },
+    {
+      "cost": 198,
+      "id": 130053,
+      "lv": 53,
+      "param": 10.2
+    },
+    {
+      "cost": 199,
+      "id": 130054,
+      "lv": 54,
+      "param": 10.3
+    },
+    {
+      "cost": 201,
+      "id": 130055,
+      "lv": 55,
+      "param": 10.4
+    },
+    {
+      "cost": 202,
+      "id": 130056,
+      "lv": 56,
+      "param": 10.5
+    },
+    {
+      "cost": 204,
+      "id": 130057,
+      "lv": 57,
+      "param": 10.6
+    },
+    {
+      "cost": 206,
+      "id": 130058,
+      "lv": 58,
+      "param": 10.7
+    },
+    {
+      "cost": 208,
+      "id": 130059,
+      "lv": 59,
+      "param": 10.8
+    },
+    {
+      "cost": 210,
+      "id": 130060,
+      "lv": 60,
+      "param": 10.9
+    },
+    {
+      "cost": 213,
+      "id": 130061,
+      "lv": 61,
+      "param": 11
+    },
+    {
+      "cost": 215,
+      "id": 130062,
+      "lv": 62,
+      "param": 11.1
+    },
+    {
+      "cost": 218,
+      "id": 130063,
+      "lv": 63,
+      "param": 11.2
+    },
+    {
+      "cost": 221,
+      "id": 130064,
+      "lv": 64,
+      "param": 11.3
+    },
+    {
+      "cost": 224,
+      "id": 130065,
+      "lv": 65,
+      "param": 11.4
+    },
+    {
+      "cost": 227,
+      "id": 130066,
+      "lv": 66,
+      "param": 11.5
+    },
+    {
+      "cost": 231,
+      "id": 130067,
+      "lv": 67,
+      "param": 11.6
+    },
+    {
+      "cost": 235,
+      "id": 130068,
+      "lv": 68,
+      "param": 11.7
+    },
+    {
+      "cost": 238,
+      "id": 130069,
+      "lv": 69,
+      "param": 11.8
+    },
+    {
+      "cost": 242,
+      "id": 130070,
+      "lv": 70,
+      "param": 11.9
+    },
+    {
+      "cost": 246,
+      "id": 130071,
+      "lv": 71,
+      "param": 12
+    },
+    {
+      "cost": 251,
+      "id": 130072,
+      "lv": 72,
+      "param": 12.1
+    },
+    {
+      "cost": 255,
+      "id": 130073,
+      "lv": 73,
+      "param": 12.2
+    },
+    {
+      "cost": 259,
+      "id": 130074,
+      "lv": 74,
+      "param": 12.3
+    },
+    {
+      "cost": 264,
+      "id": 130075,
+      "lv": 75,
+      "param": 12.4
+    },
+    {
+      "cost": 269,
+      "id": 130076,
+      "lv": 76,
+      "param": 12.5
+    },
+    {
+      "cost": 276,
+      "id": 130077,
+      "lv": 77,
+      "param": 12.6
+    },
+    {
+      "cost": 276,
+      "id": 130078,
+      "lv": 78,
+      "param": 12.7
+    },
+    {
+      "cost": 277,
+      "id": 130079,
+      "lv": 79,
+      "param": 12.8
+    },
+    {
+      "cost": 278,
+      "id": 130080,
+      "lv": 80,
+      "param": 12.9
+    },
+    {
+      "cost": 279,
+      "id": 130081,
+      "lv": 81,
+      "param": 13
+    },
+    {
+      "cost": 281,
+      "id": 130082,
+      "lv": 82,
+      "param": 13.1
+    },
+    {
+      "cost": 282,
+      "id": 130083,
+      "lv": 83,
+      "param": 13.2
+    },
+    {
+      "cost": 284,
+      "id": 130084,
+      "lv": 84,
+      "param": 13.3
+    },
+    {
+      "cost": 286,
+      "id": 130085,
+      "lv": 85,
+      "param": 13.4
+    },
+    {
+      "cost": 287,
+      "id": 130086,
+      "lv": 86,
+      "param": 13.5
+    },
+    {
+      "cost": 289,
+      "id": 130087,
+      "lv": 87,
+      "param": 13.6
+    },
+    {
+      "cost": 291,
+      "id": 130088,
+      "lv": 88,
+      "param": 13.7
+    },
+    {
+      "cost": 294,
+      "id": 130089,
+      "lv": 89,
+      "param": 13.8
+    },
+    {
+      "cost": 296,
+      "id": 130090,
+      "lv": 90,
+      "param": 13.9
+    },
+    {
+      "cost": 298,
+      "id": 130091,
+      "lv": 91,
+      "param": 14
+    },
+    {
+      "cost": 301,
+      "id": 130092,
+      "lv": 92,
+      "param": 14.1
+    },
+    {
+      "cost": 303,
+      "id": 130093,
+      "lv": 93,
+      "param": 14.2
+    },
+    {
+      "cost": 306,
+      "id": 130094,
+      "lv": 94,
+      "param": 14.3
+    },
+    {
+      "cost": 309,
+      "id": 130095,
+      "lv": 95,
+      "param": 14.4
+    },
+    {
+      "cost": 312,
+      "id": 130096,
+      "lv": 96,
+      "param": 14.5
+    },
+    {
+      "cost": 315,
+      "id": 130097,
+      "lv": 97,
+      "param": 14.6
+    },
+    {
+      "cost": 318,
+      "id": 130098,
+      "lv": 98,
+      "param": 14.7
+    },
+    {
+      "cost": 321,
+      "id": 130099,
+      "lv": 99,
+      "param": 14.8
+    },
+    {
+      "cost": 324,
+      "id": 1300100,
+      "lv": 100,
+      "param": 14.9
+    },
+    {
+      "cost": 327,
+      "id": 1300101,
+      "lv": 101,
+      "param": 15
+    },
+    {
+      "cost": 330,
+      "id": 1300102,
+      "lv": 102,
+      "param": 15.1
+    },
+    {
+      "cost": 330,
+      "id": 1300103,
+      "lv": 103,
+      "param": 15.2
+    },
+    {
+      "cost": 331,
+      "id": 1300104,
+      "lv": 104,
+      "param": 15.3
+    },
+    {
+      "cost": 332,
+      "id": 1300105,
+      "lv": 105,
+      "param": 15.4
+    },
+    {
+      "cost": 333,
+      "id": 1300106,
+      "lv": 106,
+      "param": 15.5
+    },
+    {
+      "cost": 334,
+      "id": 1300107,
+      "lv": 107,
+      "param": 15.6
+    },
+    {
+      "cost": 335,
+      "id": 1300108,
+      "lv": 108,
+      "param": 15.7
+    },
+    {
+      "cost": 336,
+      "id": 1300109,
+      "lv": 109,
+      "param": 15.8
+    },
+    {
+      "cost": 338,
+      "id": 1300110,
+      "lv": 110,
+      "param": 15.9
+    },
+    {
+      "cost": 339,
+      "id": 1300111,
+      "lv": 111,
+      "param": 16
+    },
+    {
+      "cost": 340,
+      "id": 1300112,
+      "lv": 112,
+      "param": 16.1
+    },
+    {
+      "cost": 342,
+      "id": 1300113,
+      "lv": 113,
+      "param": 16.2
+    },
+    {
+      "cost": 344,
+      "id": 1300114,
+      "lv": 114,
+      "param": 16.3
+    },
+    {
+      "cost": 345,
+      "id": 1300115,
+      "lv": 115,
+      "param": 16.4
+    },
+    {
+      "cost": 347,
+      "id": 1300116,
+      "lv": 116,
+      "param": 16.5
+    },
+    {
+      "cost": 349,
+      "id": 1300117,
+      "lv": 117,
+      "param": 16.6
+    },
+    {
+      "cost": 351,
+      "id": 1300118,
+      "lv": 118,
+      "param": 16.7
+    },
+    {
+      "cost": 352,
+      "id": 1300119,
+      "lv": 119,
+      "param": 16.8
+    },
+    {
+      "cost": 354,
+      "id": 1300120,
+      "lv": 120,
+      "param": 16.9
+    },
+    {
+      "cost": 356,
+      "id": 1300121,
+      "lv": 121,
+      "param": 17
+    },
+    {
+      "cost": 358,
+      "id": 1300122,
+      "lv": 122,
+      "param": 17.1
+    },
+    {
+      "cost": 360,
+      "id": 1300123,
+      "lv": 123,
+      "param": 17.2
+    },
+    {
+      "cost": 363,
+      "id": 1300124,
+      "lv": 124,
+      "param": 17.3
+    },
+    {
+      "cost": 365,
+      "id": 1300125,
+      "lv": 125,
+      "param": 17.4
+    },
+    {
+      "cost": 367,
+      "id": 1300126,
+      "lv": 126,
+      "param": 17.5
+    },
+    {
+      "cost": 370,
+      "id": 1300127,
+      "lv": 127,
+      "param": 17.6
+    },
+    {
+      "cost": 370,
+      "id": 1300128,
+      "lv": 128,
+      "param": 17.7
+    },
+    {
+      "cost": 371,
+      "id": 1300129,
+      "lv": 129,
+      "param": 17.8
+    },
+    {
+      "cost": 372,
+      "id": 1300130,
+      "lv": 130,
+      "param": 17.9
+    },
+    {
+      "cost": 373,
+      "id": 1300131,
+      "lv": 131,
+      "param": 18
+    },
+    {
+      "cost": 374,
+      "id": 1300132,
+      "lv": 132,
+      "param": 18.1
+    },
+    {
+      "cost": 375,
+      "id": 1300133,
+      "lv": 133,
+      "param": 18.2
+    },
+    {
+      "cost": 376,
+      "id": 1300134,
+      "lv": 134,
+      "param": 18.3
+    },
+    {
+      "cost": 378,
+      "id": 1300135,
+      "lv": 135,
+      "param": 18.4
+    },
+    {
+      "cost": 379,
+      "id": 1300136,
+      "lv": 136,
+      "param": 18.5
+    },
+    {
+      "cost": 380,
+      "id": 1300137,
+      "lv": 137,
+      "param": 18.6
+    },
+    {
+      "cost": 382,
+      "id": 1300138,
+      "lv": 138,
+      "param": 18.7
+    },
+    {
+      "cost": 384,
+      "id": 1300139,
+      "lv": 139,
+      "param": 18.8
+    },
+    {
+      "cost": 385,
+      "id": 1300140,
+      "lv": 140,
+      "param": 18.9
+    },
+    {
+      "cost": 387,
+      "id": 1300141,
+      "lv": 141,
+      "param": 19
+    },
+    {
+      "cost": 389,
+      "id": 1300142,
+      "lv": 142,
+      "param": 19.1
+    },
+    {
+      "cost": 391,
+      "id": 1300143,
+      "lv": 143,
+      "param": 19.2
+    },
+    {
+      "cost": 392,
+      "id": 1300144,
+      "lv": 144,
+      "param": 19.3
+    },
+    {
+      "cost": 394,
+      "id": 1300145,
+      "lv": 145,
+      "param": 19.4
+    },
+    {
+      "cost": 396,
+      "id": 1300146,
+      "lv": 146,
+      "param": 19.5
+    },
+    {
+      "cost": 398,
+      "id": 1300147,
+      "lv": 147,
+      "param": 19.6
+    },
+    {
+      "cost": 400,
+      "id": 1300148,
+      "lv": 148,
+      "param": 19.7
+    },
+    {
+      "cost": 403,
+      "id": 1300149,
+      "lv": 149,
+      "param": 19.8
+    },
+    {
+      "cost": 405,
+      "id": 1300150,
+      "lv": 150,
+      "param": 19.9
+    },
+    {
+      "cost": 407,
+      "id": 1300151,
+      "lv": 151,
+      "param": 20
+    },
+    {
+      "cost": 410,
+      "id": 1300152,
+      "lv": 152,
+      "param": 20.1
+    },
+    {
+      "cost": 410,
+      "id": 1300153,
+      "lv": 153,
+      "param": 20.2
+    },
+    {
+      "cost": 411,
+      "id": 1300154,
+      "lv": 154,
+      "param": 20.3
+    },
+    {
+      "cost": 412,
+      "id": 1300155,
+      "lv": 155,
+      "param": 20.4
+    },
+    {
+      "cost": 413,
+      "id": 1300156,
+      "lv": 156,
+      "param": 20.5
+    },
+    {
+      "cost": 414,
+      "id": 1300157,
+      "lv": 157,
+      "param": 20.6
+    },
+    {
+      "cost": 415,
+      "id": 1300158,
+      "lv": 158,
+      "param": 20.7
+    },
+    {
+      "cost": 416,
+      "id": 1300159,
+      "lv": 159,
+      "param": 20.8
+    },
+    {
+      "cost": 418,
+      "id": 1300160,
+      "lv": 160,
+      "param": 20.9
+    },
+    {
+      "cost": 419,
+      "id": 1300161,
+      "lv": 161,
+      "param": 21
+    },
+    {
+      "cost": 420,
+      "id": 1300162,
+      "lv": 162,
+      "param": 21.1
+    },
+    {
+      "cost": 422,
+      "id": 1300163,
+      "lv": 163,
+      "param": 21.2
+    },
+    {
+      "cost": 424,
+      "id": 1300164,
+      "lv": 164,
+      "param": 21.3
+    },
+    {
+      "cost": 425,
+      "id": 1300165,
+      "lv": 165,
+      "param": 21.4
+    },
+    {
+      "cost": 427,
+      "id": 1300166,
+      "lv": 166,
+      "param": 21.5
+    },
+    {
+      "cost": 429,
+      "id": 1300167,
+      "lv": 167,
+      "param": 21.6
+    },
+    {
+      "cost": 431,
+      "id": 1300168,
+      "lv": 168,
+      "param": 21.7
+    },
+    {
+      "cost": 432,
+      "id": 1300169,
+      "lv": 169,
+      "param": 21.8
+    },
+    {
+      "cost": 434,
+      "id": 1300170,
+      "lv": 170,
+      "param": 21.9
+    },
+    {
+      "cost": 436,
+      "id": 1300171,
+      "lv": 171,
+      "param": 22
+    },
+    {
+      "cost": 438,
+      "id": 1300172,
+      "lv": 172,
+      "param": 22.1
+    },
+    {
+      "cost": 440,
+      "id": 1300173,
+      "lv": 173,
+      "param": 22.2
+    },
+    {
+      "cost": 443,
+      "id": 1300174,
+      "lv": 174,
+      "param": 22.3
+    },
+    {
+      "cost": 445,
+      "id": 1300175,
+      "lv": 175,
+      "param": 22.4
+    },
+    {
+      "cost": 447,
+      "id": 1300176,
+      "lv": 176,
+      "param": 22.5
+    },
+    {
+      "cost": 450,
+      "id": 1300177,
+      "lv": 177,
+      "param": 22.6
+    },
+    {
+      "cost": 450,
+      "id": 1300178,
+      "lv": 178,
+      "param": 22.7
+    },
+    {
+      "cost": 451,
+      "id": 1300179,
+      "lv": 179,
+      "param": 22.8
+    },
+    {
+      "cost": 452,
+      "id": 1300180,
+      "lv": 180,
+      "param": 22.9
+    },
+    {
+      "cost": 453,
+      "id": 1300181,
+      "lv": 181,
+      "param": 23
+    },
+    {
+      "cost": 454,
+      "id": 1300182,
+      "lv": 182,
+      "param": 23.1
+    },
+    {
+      "cost": 455,
+      "id": 1300183,
+      "lv": 183,
+      "param": 23.2
+    },
+    {
+      "cost": 456,
+      "id": 1300184,
+      "lv": 184,
+      "param": 23.3
+    },
+    {
+      "cost": 458,
+      "id": 1300185,
+      "lv": 185,
+      "param": 23.4
+    },
+    {
+      "cost": 459,
+      "id": 1300186,
+      "lv": 186,
+      "param": 23.5
+    },
+    {
+      "cost": 460,
+      "id": 1300187,
+      "lv": 187,
+      "param": 23.6
+    },
+    {
+      "cost": 462,
+      "id": 1300188,
+      "lv": 188,
+      "param": 23.7
+    },
+    {
+      "cost": 464,
+      "id": 1300189,
+      "lv": 189,
+      "param": 23.8
+    },
+    {
+      "cost": 465,
+      "id": 1300190,
+      "lv": 190,
+      "param": 23.9
+    },
+    {
+      "cost": 467,
+      "id": 1300191,
+      "lv": 191,
+      "param": 24
+    },
+    {
+      "cost": 469,
+      "id": 1300192,
+      "lv": 192,
+      "param": 24.1
+    },
+    {
+      "cost": 471,
+      "id": 1300193,
+      "lv": 193,
+      "param": 24.2
+    },
+    {
+      "cost": 472,
+      "id": 1300194,
+      "lv": 194,
+      "param": 24.3
+    },
+    {
+      "cost": 474,
+      "id": 1300195,
+      "lv": 195,
+      "param": 24.4
+    },
+    {
+      "cost": 476,
+      "id": 1300196,
+      "lv": 196,
+      "param": 24.5
+    },
+    {
+      "cost": 478,
+      "id": 1300197,
+      "lv": 197,
+      "param": 24.6
+    },
+    {
+      "cost": 480,
+      "id": 1300198,
+      "lv": 198,
+      "param": 24.7
+    },
+    {
+      "cost": 483,
+      "id": 1300199,
+      "lv": 199,
+      "param": 24.8
+    },
+    {
+      "cost": 485,
+      "id": 1300200,
+      "lv": 200,
+      "param": 25
+    },
+    {
+      "cost": 0,
+      "id": 13011,
+      "lv": 1,
+      "param": 5
+    },
+    {
+      "cost": 10,
+      "id": 13012,
+      "lv": 2,
+      "param": 5.1
+    },
+    {
+      "cost": 11,
+      "id": 13013,
+      "lv": 3,
+      "param": 5.2
+    },
+    {
+      "cost": 12,
+      "id": 13014,
+      "lv": 4,
+      "param": 5.3
+    },
+    {
+      "cost": 13,
+      "id": 13015,
+      "lv": 5,
+      "param": 5.4
+    },
+    {
+      "cost": 15,
+      "id": 13016,
+      "lv": 6,
+      "param": 5.5
+    },
+    {
+      "cost": 17,
+      "id": 13017,
+      "lv": 7,
+      "param": 5.6
+    },
+    {
+      "cost": 19,
+      "id": 13018,
+      "lv": 8,
+      "param": 5.7
+    },
+    {
+      "cost": 22,
+      "id": 13019,
+      "lv": 9,
+      "param": 5.8
+    },
+    {
+      "cost": 25,
+      "id": 130110,
+      "lv": 10,
+      "param": 5.9
+    },
+    {
+      "cost": 28,
+      "id": 130111,
+      "lv": 11,
+      "param": 6
+    },
+    {
+      "cost": 32,
+      "id": 130112,
+      "lv": 12,
+      "param": 6.1
+    },
+    {
+      "cost": 36,
+      "id": 130113,
+      "lv": 13,
+      "param": 6.2
+    },
+    {
+      "cost": 40,
+      "id": 130114,
+      "lv": 14,
+      "param": 6.3
+    },
+    {
+      "cost": 44,
+      "id": 130115,
+      "lv": 15,
+      "param": 6.4
+    },
+    {
+      "cost": 49,
+      "id": 130116,
+      "lv": 16,
+      "param": 6.5
+    },
+    {
+      "cost": 54,
+      "id": 130117,
+      "lv": 17,
+      "param": 6.6
+    },
+    {
+      "cost": 59,
+      "id": 130118,
+      "lv": 18,
+      "param": 6.7
+    },
+    {
+      "cost": 64,
+      "id": 130119,
+      "lv": 19,
+      "param": 6.8
+    },
+    {
+      "cost": 70,
+      "id": 130120,
+      "lv": 20,
+      "param": 6.9
+    },
+    {
+      "cost": 75,
+      "id": 130121,
+      "lv": 21,
+      "param": 7
+    },
+    {
+      "cost": 81,
+      "id": 130122,
+      "lv": 22,
+      "param": 7.1
+    },
+    {
+      "cost": 88,
+      "id": 130123,
+      "lv": 23,
+      "param": 7.2
+    },
+    {
+      "cost": 94,
+      "id": 130124,
+      "lv": 24,
+      "param": 7.3
+    },
+    {
+      "cost": 101,
+      "id": 130125,
+      "lv": 25,
+      "param": 7.4
+    },
+    {
+      "cost": 108,
+      "id": 130126,
+      "lv": 26,
+      "param": 7.5
+    },
+    {
+      "cost": 115,
+      "id": 130127,
+      "lv": 27,
+      "param": 7.6
+    },
+    {
+      "cost": 123,
+      "id": 130128,
+      "lv": 28,
+      "param": 7.7
+    },
+    {
+      "cost": 130,
+      "id": 130129,
+      "lv": 29,
+      "param": 7.8
+    },
+    {
+      "cost": 138,
+      "id": 130130,
+      "lv": 30,
+      "param": 7.9
+    },
+    {
+      "cost": 146,
+      "id": 130131,
+      "lv": 31,
+      "param": 8
+    },
+    {
+      "cost": 147,
+      "id": 130132,
+      "lv": 32,
+      "param": 8.1
+    },
+    {
+      "cost": 147,
+      "id": 130133,
+      "lv": 33,
+      "param": 8.2
+    },
+    {
+      "cost": 148,
+      "id": 130134,
+      "lv": 34,
+      "param": 8.3
+    },
+    {
+      "cost": 150,
+      "id": 130135,
+      "lv": 35,
+      "param": 8.4
+    },
+    {
+      "cost": 151,
+      "id": 130136,
+      "lv": 36,
+      "param": 8.5
+    },
+    {
+      "cost": 153,
+      "id": 130137,
+      "lv": 37,
+      "param": 8.6
+    },
+    {
+      "cost": 155,
+      "id": 130138,
+      "lv": 38,
+      "param": 8.7
+    },
+    {
+      "cost": 157,
+      "id": 130139,
+      "lv": 39,
+      "param": 8.8
+    },
+    {
+      "cost": 159,
+      "id": 130140,
+      "lv": 40,
+      "param": 8.9
+    },
+    {
+      "cost": 162,
+      "id": 130141,
+      "lv": 41,
+      "param": 9
+    },
+    {
+      "cost": 164,
+      "id": 130142,
+      "lv": 42,
+      "param": 9.1
+    },
+    {
+      "cost": 167,
+      "id": 130143,
+      "lv": 43,
+      "param": 9.2
+    },
+    {
+      "cost": 170,
+      "id": 130144,
+      "lv": 44,
+      "param": 9.3
+    },
+    {
+      "cost": 173,
+      "id": 130145,
+      "lv": 45,
+      "param": 9.4
+    },
+    {
+      "cost": 176,
+      "id": 130146,
+      "lv": 46,
+      "param": 9.5
+    },
+    {
+      "cost": 180,
+      "id": 130147,
+      "lv": 47,
+      "param": 9.6
+    },
+    {
+      "cost": 184,
+      "id": 130148,
+      "lv": 48,
+      "param": 9.7
+    },
+    {
+      "cost": 187,
+      "id": 130149,
+      "lv": 49,
+      "param": 9.8
+    },
+    {
+      "cost": 191,
+      "id": 130150,
+      "lv": 50,
+      "param": 9.9
+    },
+    {
+      "cost": 195,
+      "id": 130151,
+      "lv": 51,
+      "param": 10
+    },
+    {
+      "cost": 198,
+      "id": 130152,
+      "lv": 52,
+      "param": 10.1
+    },
+    {
+      "cost": 198,
+      "id": 130153,
+      "lv": 53,
+      "param": 10.2
+    },
+    {
+      "cost": 199,
+      "id": 130154,
+      "lv": 54,
+      "param": 10.3
+    },
+    {
+      "cost": 201,
+      "id": 130155,
+      "lv": 55,
+      "param": 10.4
+    },
+    {
+      "cost": 202,
+      "id": 130156,
+      "lv": 56,
+      "param": 10.5
+    },
+    {
+      "cost": 204,
+      "id": 130157,
+      "lv": 57,
+      "param": 10.6
+    },
+    {
+      "cost": 206,
+      "id": 130158,
+      "lv": 58,
+      "param": 10.7
+    },
+    {
+      "cost": 208,
+      "id": 130159,
+      "lv": 59,
+      "param": 10.8
+    },
+    {
+      "cost": 210,
+      "id": 130160,
+      "lv": 60,
+      "param": 10.9
+    },
+    {
+      "cost": 213,
+      "id": 130161,
+      "lv": 61,
+      "param": 11
+    },
+    {
+      "cost": 215,
+      "id": 130162,
+      "lv": 62,
+      "param": 11.1
+    },
+    {
+      "cost": 218,
+      "id": 130163,
+      "lv": 63,
+      "param": 11.2
+    },
+    {
+      "cost": 221,
+      "id": 130164,
+      "lv": 64,
+      "param": 11.3
+    },
+    {
+      "cost": 224,
+      "id": 130165,
+      "lv": 65,
+      "param": 11.4
+    },
+    {
+      "cost": 227,
+      "id": 130166,
+      "lv": 66,
+      "param": 11.5
+    },
+    {
+      "cost": 231,
+      "id": 130167,
+      "lv": 67,
+      "param": 11.6
+    },
+    {
+      "cost": 235,
+      "id": 130168,
+      "lv": 68,
+      "param": 11.7
+    },
+    {
+      "cost": 238,
+      "id": 130169,
+      "lv": 69,
+      "param": 11.8
+    },
+    {
+      "cost": 242,
+      "id": 130170,
+      "lv": 70,
+      "param": 11.9
+    },
+    {
+      "cost": 246,
+      "id": 130171,
+      "lv": 71,
+      "param": 12
+    },
+    {
+      "cost": 251,
+      "id": 130172,
+      "lv": 72,
+      "param": 12.1
+    },
+    {
+      "cost": 255,
+      "id": 130173,
+      "lv": 73,
+      "param": 12.2
+    },
+    {
+      "cost": 259,
+      "id": 130174,
+      "lv": 74,
+      "param": 12.3
+    },
+    {
+      "cost": 264,
+      "id": 130175,
+      "lv": 75,
+      "param": 12.4
+    },
+    {
+      "cost": 269,
+      "id": 130176,
+      "lv": 76,
+      "param": 12.5
+    },
+    {
+      "cost": 276,
+      "id": 130177,
+      "lv": 77,
+      "param": 12.6
+    },
+    {
+      "cost": 276,
+      "id": 130178,
+      "lv": 78,
+      "param": 12.7
+    },
+    {
+      "cost": 277,
+      "id": 130179,
+      "lv": 79,
+      "param": 12.8
+    },
+    {
+      "cost": 278,
+      "id": 130180,
+      "lv": 80,
+      "param": 12.9
+    },
+    {
+      "cost": 279,
+      "id": 130181,
+      "lv": 81,
+      "param": 13
+    },
+    {
+      "cost": 281,
+      "id": 130182,
+      "lv": 82,
+      "param": 13.1
+    },
+    {
+      "cost": 282,
+      "id": 130183,
+      "lv": 83,
+      "param": 13.2
+    },
+    {
+      "cost": 284,
+      "id": 130184,
+      "lv": 84,
+      "param": 13.3
+    },
+    {
+      "cost": 286,
+      "id": 130185,
+      "lv": 85,
+      "param": 13.4
+    },
+    {
+      "cost": 287,
+      "id": 130186,
+      "lv": 86,
+      "param": 13.5
+    },
+    {
+      "cost": 289,
+      "id": 130187,
+      "lv": 87,
+      "param": 13.6
+    },
+    {
+      "cost": 291,
+      "id": 130188,
+      "lv": 88,
+      "param": 13.7
+    },
+    {
+      "cost": 294,
+      "id": 130189,
+      "lv": 89,
+      "param": 13.8
+    },
+    {
+      "cost": 296,
+      "id": 130190,
+      "lv": 90,
+      "param": 13.9
+    },
+    {
+      "cost": 298,
+      "id": 130191,
+      "lv": 91,
+      "param": 14
+    },
+    {
+      "cost": 301,
+      "id": 130192,
+      "lv": 92,
+      "param": 14.1
+    },
+    {
+      "cost": 303,
+      "id": 130193,
+      "lv": 93,
+      "param": 14.2
+    },
+    {
+      "cost": 306,
+      "id": 130194,
+      "lv": 94,
+      "param": 14.3
+    },
+    {
+      "cost": 309,
+      "id": 130195,
+      "lv": 95,
+      "param": 14.4
+    },
+    {
+      "cost": 312,
+      "id": 130196,
+      "lv": 96,
+      "param": 14.5
+    },
+    {
+      "cost": 315,
+      "id": 130197,
+      "lv": 97,
+      "param": 14.6
+    },
+    {
+      "cost": 318,
+      "id": 130198,
+      "lv": 98,
+      "param": 14.7
+    },
+    {
+      "cost": 321,
+      "id": 130199,
+      "lv": 99,
+      "param": 14.8
+    },
+    {
+      "cost": 324,
+      "id": 1301100,
+      "lv": 100,
+      "param": 14.9
+    },
+    {
+      "cost": 327,
+      "id": 1301101,
+      "lv": 101,
+      "param": 15
+    },
+    {
+      "cost": 330,
+      "id": 1301102,
+      "lv": 102,
+      "param": 15.1
+    },
+    {
+      "cost": 330,
+      "id": 1301103,
+      "lv": 103,
+      "param": 15.2
+    },
+    {
+      "cost": 331,
+      "id": 1301104,
+      "lv": 104,
+      "param": 15.3
+    },
+    {
+      "cost": 332,
+      "id": 1301105,
+      "lv": 105,
+      "param": 15.4
+    },
+    {
+      "cost": 333,
+      "id": 1301106,
+      "lv": 106,
+      "param": 15.5
+    },
+    {
+      "cost": 334,
+      "id": 1301107,
+      "lv": 107,
+      "param": 15.6
+    },
+    {
+      "cost": 335,
+      "id": 1301108,
+      "lv": 108,
+      "param": 15.7
+    },
+    {
+      "cost": 336,
+      "id": 1301109,
+      "lv": 109,
+      "param": 15.8
+    },
+    {
+      "cost": 338,
+      "id": 1301110,
+      "lv": 110,
+      "param": 15.9
+    },
+    {
+      "cost": 339,
+      "id": 1301111,
+      "lv": 111,
+      "param": 16
+    },
+    {
+      "cost": 340,
+      "id": 1301112,
+      "lv": 112,
+      "param": 16.1
+    },
+    {
+      "cost": 342,
+      "id": 1301113,
+      "lv": 113,
+      "param": 16.2
+    },
+    {
+      "cost": 344,
+      "id": 1301114,
+      "lv": 114,
+      "param": 16.3
+    },
+    {
+      "cost": 345,
+      "id": 1301115,
+      "lv": 115,
+      "param": 16.4
+    },
+    {
+      "cost": 347,
+      "id": 1301116,
+      "lv": 116,
+      "param": 16.5
+    },
+    {
+      "cost": 349,
+      "id": 1301117,
+      "lv": 117,
+      "param": 16.6
+    },
+    {
+      "cost": 351,
+      "id": 1301118,
+      "lv": 118,
+      "param": 16.7
+    },
+    {
+      "cost": 352,
+      "id": 1301119,
+      "lv": 119,
+      "param": 16.8
+    },
+    {
+      "cost": 354,
+      "id": 1301120,
+      "lv": 120,
+      "param": 16.9
+    },
+    {
+      "cost": 356,
+      "id": 1301121,
+      "lv": 121,
+      "param": 17
+    },
+    {
+      "cost": 358,
+      "id": 1301122,
+      "lv": 122,
+      "param": 17.1
+    },
+    {
+      "cost": 360,
+      "id": 1301123,
+      "lv": 123,
+      "param": 17.2
+    },
+    {
+      "cost": 363,
+      "id": 1301124,
+      "lv": 124,
+      "param": 17.3
+    },
+    {
+      "cost": 365,
+      "id": 1301125,
+      "lv": 125,
+      "param": 17.4
+    },
+    {
+      "cost": 367,
+      "id": 1301126,
+      "lv": 126,
+      "param": 17.5
+    },
+    {
+      "cost": 370,
+      "id": 1301127,
+      "lv": 127,
+      "param": 17.6
+    },
+    {
+      "cost": 370,
+      "id": 1301128,
+      "lv": 128,
+      "param": 17.7
+    },
+    {
+      "cost": 371,
+      "id": 1301129,
+      "lv": 129,
+      "param": 17.8
+    },
+    {
+      "cost": 372,
+      "id": 1301130,
+      "lv": 130,
+      "param": 17.9
+    },
+    {
+      "cost": 373,
+      "id": 1301131,
+      "lv": 131,
+      "param": 18
+    },
+    {
+      "cost": 374,
+      "id": 1301132,
+      "lv": 132,
+      "param": 18.1
+    },
+    {
+      "cost": 375,
+      "id": 1301133,
+      "lv": 133,
+      "param": 18.2
+    },
+    {
+      "cost": 376,
+      "id": 1301134,
+      "lv": 134,
+      "param": 18.3
+    },
+    {
+      "cost": 378,
+      "id": 1301135,
+      "lv": 135,
+      "param": 18.4
+    },
+    {
+      "cost": 379,
+      "id": 1301136,
+      "lv": 136,
+      "param": 18.5
+    },
+    {
+      "cost": 380,
+      "id": 1301137,
+      "lv": 137,
+      "param": 18.6
+    },
+    {
+      "cost": 382,
+      "id": 1301138,
+      "lv": 138,
+      "param": 18.7
+    },
+    {
+      "cost": 384,
+      "id": 1301139,
+      "lv": 139,
+      "param": 18.8
+    },
+    {
+      "cost": 385,
+      "id": 1301140,
+      "lv": 140,
+      "param": 18.9
+    },
+    {
+      "cost": 387,
+      "id": 1301141,
+      "lv": 141,
+      "param": 19
+    },
+    {
+      "cost": 389,
+      "id": 1301142,
+      "lv": 142,
+      "param": 19.1
+    },
+    {
+      "cost": 391,
+      "id": 1301143,
+      "lv": 143,
+      "param": 19.2
+    },
+    {
+      "cost": 392,
+      "id": 1301144,
+      "lv": 144,
+      "param": 19.3
+    },
+    {
+      "cost": 394,
+      "id": 1301145,
+      "lv": 145,
+      "param": 19.4
+    },
+    {
+      "cost": 396,
+      "id": 1301146,
+      "lv": 146,
+      "param": 19.5
+    },
+    {
+      "cost": 398,
+      "id": 1301147,
+      "lv": 147,
+      "param": 19.6
+    },
+    {
+      "cost": 400,
+      "id": 1301148,
+      "lv": 148,
+      "param": 19.7
+    },
+    {
+      "cost": 403,
+      "id": 1301149,
+      "lv": 149,
+      "param": 19.8
+    },
+    {
+      "cost": 405,
+      "id": 1301150,
+      "lv": 150,
+      "param": 19.9
+    },
+    {
+      "cost": 407,
+      "id": 1301151,
+      "lv": 151,
+      "param": 20
+    },
+    {
+      "cost": 410,
+      "id": 1301152,
+      "lv": 152,
+      "param": 20.1
+    },
+    {
+      "cost": 410,
+      "id": 1301153,
+      "lv": 153,
+      "param": 20.2
+    },
+    {
+      "cost": 411,
+      "id": 1301154,
+      "lv": 154,
+      "param": 20.3
+    },
+    {
+      "cost": 412,
+      "id": 1301155,
+      "lv": 155,
+      "param": 20.4
+    },
+    {
+      "cost": 413,
+      "id": 1301156,
+      "lv": 156,
+      "param": 20.5
+    },
+    {
+      "cost": 414,
+      "id": 1301157,
+      "lv": 157,
+      "param": 20.6
+    },
+    {
+      "cost": 415,
+      "id": 1301158,
+      "lv": 158,
+      "param": 20.7
+    },
+    {
+      "cost": 416,
+      "id": 1301159,
+      "lv": 159,
+      "param": 20.8
+    },
+    {
+      "cost": 418,
+      "id": 1301160,
+      "lv": 160,
+      "param": 20.9
+    },
+    {
+      "cost": 419,
+      "id": 1301161,
+      "lv": 161,
+      "param": 21
+    },
+    {
+      "cost": 420,
+      "id": 1301162,
+      "lv": 162,
+      "param": 21.1
+    },
+    {
+      "cost": 422,
+      "id": 1301163,
+      "lv": 163,
+      "param": 21.2
+    },
+    {
+      "cost": 424,
+      "id": 1301164,
+      "lv": 164,
+      "param": 21.3
+    },
+    {
+      "cost": 425,
+      "id": 1301165,
+      "lv": 165,
+      "param": 21.4
+    },
+    {
+      "cost": 427,
+      "id": 1301166,
+      "lv": 166,
+      "param": 21.5
+    },
+    {
+      "cost": 429,
+      "id": 1301167,
+      "lv": 167,
+      "param": 21.6
+    },
+    {
+      "cost": 431,
+      "id": 1301168,
+      "lv": 168,
+      "param": 21.7
+    },
+    {
+      "cost": 432,
+      "id": 1301169,
+      "lv": 169,
+      "param": 21.8
+    },
+    {
+      "cost": 434,
+      "id": 1301170,
+      "lv": 170,
+      "param": 21.9
+    },
+    {
+      "cost": 436,
+      "id": 1301171,
+      "lv": 171,
+      "param": 22
+    },
+    {
+      "cost": 438,
+      "id": 1301172,
+      "lv": 172,
+      "param": 22.1
+    },
+    {
+      "cost": 440,
+      "id": 1301173,
+      "lv": 173,
+      "param": 22.2
+    },
+    {
+      "cost": 443,
+      "id": 1301174,
+      "lv": 174,
+      "param": 22.3
+    },
+    {
+      "cost": 445,
+      "id": 1301175,
+      "lv": 175,
+      "param": 22.4
+    },
+    {
+      "cost": 447,
+      "id": 1301176,
+      "lv": 176,
+      "param": 22.5
+    },
+    {
+      "cost": 450,
+      "id": 1301177,
+      "lv": 177,
+      "param": 22.6
+    },
+    {
+      "cost": 450,
+      "id": 1301178,
+      "lv": 178,
+      "param": 22.7
+    },
+    {
+      "cost": 451,
+      "id": 1301179,
+      "lv": 179,
+      "param": 22.8
+    },
+    {
+      "cost": 452,
+      "id": 1301180,
+      "lv": 180,
+      "param": 22.9
+    },
+    {
+      "cost": 453,
+      "id": 1301181,
+      "lv": 181,
+      "param": 23
+    },
+    {
+      "cost": 454,
+      "id": 1301182,
+      "lv": 182,
+      "param": 23.1
+    },
+    {
+      "cost": 455,
+      "id": 1301183,
+      "lv": 183,
+      "param": 23.2
+    },
+    {
+      "cost": 456,
+      "id": 1301184,
+      "lv": 184,
+      "param": 23.3
+    },
+    {
+      "cost": 458,
+      "id": 1301185,
+      "lv": 185,
+      "param": 23.4
+    },
+    {
+      "cost": 459,
+      "id": 1301186,
+      "lv": 186,
+      "param": 23.5
+    },
+    {
+      "cost": 460,
+      "id": 1301187,
+      "lv": 187,
+      "param": 23.6
+    },
+    {
+      "cost": 462,
+      "id": 1301188,
+      "lv": 188,
+      "param": 23.7
+    },
+    {
+      "cost": 464,
+      "id": 1301189,
+      "lv": 189,
+      "param": 23.8
+    },
+    {
+      "cost": 465,
+      "id": 1301190,
+      "lv": 190,
+      "param": 23.9
+    },
+    {
+      "cost": 467,
+      "id": 1301191,
+      "lv": 191,
+      "param": 24
+    },
+    {
+      "cost": 469,
+      "id": 1301192,
+      "lv": 192,
+      "param": 24.1
+    },
+    {
+      "cost": 471,
+      "id": 1301193,
+      "lv": 193,
+      "param": 24.2
+    },
+    {
+      "cost": 472,
+      "id": 1301194,
+      "lv": 194,
+      "param": 24.3
+    },
+    {
+      "cost": 474,
+      "id": 1301195,
+      "lv": 195,
+      "param": 24.4
+    },
+    {
+      "cost": 476,
+      "id": 1301196,
+      "lv": 196,
+      "param": 24.5
+    },
+    {
+      "cost": 478,
+      "id": 1301197,
+      "lv": 197,
+      "param": 24.6
+    },
+    {
+      "cost": 480,
+      "id": 1301198,
+      "lv": 198,
+      "param": 24.7
+    },
+    {
+      "cost": 483,
+      "id": 1301199,
+      "lv": 199,
+      "param": 24.8
+    },
+    {
+      "cost": 485,
+      "id": 1301200,
+      "lv": 200,
+      "param": 25
+    },
+    {
+      "cost": 0,
+      "id": 13021,
+      "lv": 1,
+      "param": 100
+    },
+    {
+      "cost": 10,
+      "id": 13022,
+      "lv": 2,
+      "param": 101
+    },
+    {
+      "cost": 11,
+      "id": 13023,
+      "lv": 3,
+      "param": 102
+    },
+    {
+      "cost": 12,
+      "id": 13024,
+      "lv": 4,
+      "param": 103
+    },
+    {
+      "cost": 13,
+      "id": 13025,
+      "lv": 5,
+      "param": 104
+    },
+    {
+      "cost": 15,
+      "id": 13026,
+      "lv": 6,
+      "param": 105
+    },
+    {
+      "cost": 17,
+      "id": 13027,
+      "lv": 7,
+      "param": 106
+    },
+    {
+      "cost": 19,
+      "id": 13028,
+      "lv": 8,
+      "param": 107
+    },
+    {
+      "cost": 22,
+      "id": 13029,
+      "lv": 9,
+      "param": 108
+    },
+    {
+      "cost": 25,
+      "id": 130210,
+      "lv": 10,
+      "param": 109
+    },
+    {
+      "cost": 28,
+      "id": 130211,
+      "lv": 11,
+      "param": 110
+    },
+    {
+      "cost": 32,
+      "id": 130212,
+      "lv": 12,
+      "param": 111
+    },
+    {
+      "cost": 36,
+      "id": 130213,
+      "lv": 13,
+      "param": 112
+    },
+    {
+      "cost": 40,
+      "id": 130214,
+      "lv": 14,
+      "param": 113
+    },
+    {
+      "cost": 44,
+      "id": 130215,
+      "lv": 15,
+      "param": 114
+    },
+    {
+      "cost": 49,
+      "id": 130216,
+      "lv": 16,
+      "param": 115
+    },
+    {
+      "cost": 54,
+      "id": 130217,
+      "lv": 17,
+      "param": 116
+    },
+    {
+      "cost": 59,
+      "id": 130218,
+      "lv": 18,
+      "param": 117
+    },
+    {
+      "cost": 64,
+      "id": 130219,
+      "lv": 19,
+      "param": 118
+    },
+    {
+      "cost": 70,
+      "id": 130220,
+      "lv": 20,
+      "param": 119
+    },
+    {
+      "cost": 75,
+      "id": 130221,
+      "lv": 21,
+      "param": 120
+    },
+    {
+      "cost": 81,
+      "id": 130222,
+      "lv": 22,
+      "param": 121
+    },
+    {
+      "cost": 88,
+      "id": 130223,
+      "lv": 23,
+      "param": 122
+    },
+    {
+      "cost": 94,
+      "id": 130224,
+      "lv": 24,
+      "param": 123
+    },
+    {
+      "cost": 101,
+      "id": 130225,
+      "lv": 25,
+      "param": 124
+    },
+    {
+      "cost": 108,
+      "id": 130226,
+      "lv": 26,
+      "param": 125
+    },
+    {
+      "cost": 115,
+      "id": 130227,
+      "lv": 27,
+      "param": 126
+    },
+    {
+      "cost": 123,
+      "id": 130228,
+      "lv": 28,
+      "param": 127
+    },
+    {
+      "cost": 130,
+      "id": 130229,
+      "lv": 29,
+      "param": 128
+    },
+    {
+      "cost": 138,
+      "id": 130230,
+      "lv": 30,
+      "param": 129
+    },
+    {
+      "cost": 146,
+      "id": 130231,
+      "lv": 31,
+      "param": 130
+    },
+    {
+      "cost": 147,
+      "id": 130232,
+      "lv": 32,
+      "param": 131
+    },
+    {
+      "cost": 147,
+      "id": 130233,
+      "lv": 33,
+      "param": 132
+    },
+    {
+      "cost": 148,
+      "id": 130234,
+      "lv": 34,
+      "param": 133
+    },
+    {
+      "cost": 150,
+      "id": 130235,
+      "lv": 35,
+      "param": 134
+    },
+    {
+      "cost": 151,
+      "id": 130236,
+      "lv": 36,
+      "param": 135
+    },
+    {
+      "cost": 153,
+      "id": 130237,
+      "lv": 37,
+      "param": 136
+    },
+    {
+      "cost": 155,
+      "id": 130238,
+      "lv": 38,
+      "param": 137
+    },
+    {
+      "cost": 157,
+      "id": 130239,
+      "lv": 39,
+      "param": 138
+    },
+    {
+      "cost": 159,
+      "id": 130240,
+      "lv": 40,
+      "param": 139
+    },
+    {
+      "cost": 162,
+      "id": 130241,
+      "lv": 41,
+      "param": 140
+    },
+    {
+      "cost": 164,
+      "id": 130242,
+      "lv": 42,
+      "param": 141
+    },
+    {
+      "cost": 167,
+      "id": 130243,
+      "lv": 43,
+      "param": 142
+    },
+    {
+      "cost": 170,
+      "id": 130244,
+      "lv": 44,
+      "param": 143
+    },
+    {
+      "cost": 173,
+      "id": 130245,
+      "lv": 45,
+      "param": 144
+    },
+    {
+      "cost": 176,
+      "id": 130246,
+      "lv": 46,
+      "param": 145
+    },
+    {
+      "cost": 180,
+      "id": 130247,
+      "lv": 47,
+      "param": 146
+    },
+    {
+      "cost": 184,
+      "id": 130248,
+      "lv": 48,
+      "param": 147
+    },
+    {
+      "cost": 187,
+      "id": 130249,
+      "lv": 49,
+      "param": 148
+    },
+    {
+      "cost": 191,
+      "id": 130250,
+      "lv": 50,
+      "param": 149
+    },
+    {
+      "cost": 195,
+      "id": 130251,
+      "lv": 51,
+      "param": 150
+    },
+    {
+      "cost": 198,
+      "id": 130252,
+      "lv": 52,
+      "param": 151
+    },
+    {
+      "cost": 198,
+      "id": 130253,
+      "lv": 53,
+      "param": 152
+    },
+    {
+      "cost": 199,
+      "id": 130254,
+      "lv": 54,
+      "param": 153
+    },
+    {
+      "cost": 201,
+      "id": 130255,
+      "lv": 55,
+      "param": 154
+    },
+    {
+      "cost": 202,
+      "id": 130256,
+      "lv": 56,
+      "param": 155
+    },
+    {
+      "cost": 204,
+      "id": 130257,
+      "lv": 57,
+      "param": 156
+    },
+    {
+      "cost": 206,
+      "id": 130258,
+      "lv": 58,
+      "param": 157
+    },
+    {
+      "cost": 208,
+      "id": 130259,
+      "lv": 59,
+      "param": 158
+    },
+    {
+      "cost": 210,
+      "id": 130260,
+      "lv": 60,
+      "param": 159
+    },
+    {
+      "cost": 213,
+      "id": 130261,
+      "lv": 61,
+      "param": 160
+    },
+    {
+      "cost": 215,
+      "id": 130262,
+      "lv": 62,
+      "param": 161
+    },
+    {
+      "cost": 218,
+      "id": 130263,
+      "lv": 63,
+      "param": 162
+    },
+    {
+      "cost": 221,
+      "id": 130264,
+      "lv": 64,
+      "param": 163
+    },
+    {
+      "cost": 224,
+      "id": 130265,
+      "lv": 65,
+      "param": 164
+    },
+    {
+      "cost": 227,
+      "id": 130266,
+      "lv": 66,
+      "param": 165
+    },
+    {
+      "cost": 231,
+      "id": 130267,
+      "lv": 67,
+      "param": 166
+    },
+    {
+      "cost": 235,
+      "id": 130268,
+      "lv": 68,
+      "param": 167
+    },
+    {
+      "cost": 238,
+      "id": 130269,
+      "lv": 69,
+      "param": 168
+    },
+    {
+      "cost": 242,
+      "id": 130270,
+      "lv": 70,
+      "param": 169
+    },
+    {
+      "cost": 246,
+      "id": 130271,
+      "lv": 71,
+      "param": 170
+    },
+    {
+      "cost": 251,
+      "id": 130272,
+      "lv": 72,
+      "param": 171
+    },
+    {
+      "cost": 255,
+      "id": 130273,
+      "lv": 73,
+      "param": 172
+    },
+    {
+      "cost": 259,
+      "id": 130274,
+      "lv": 74,
+      "param": 173
+    },
+    {
+      "cost": 264,
+      "id": 130275,
+      "lv": 75,
+      "param": 174
+    },
+    {
+      "cost": 269,
+      "id": 130276,
+      "lv": 76,
+      "param": 175
+    },
+    {
+      "cost": 276,
+      "id": 130277,
+      "lv": 77,
+      "param": 176
+    },
+    {
+      "cost": 276,
+      "id": 130278,
+      "lv": 78,
+      "param": 177
+    },
+    {
+      "cost": 277,
+      "id": 130279,
+      "lv": 79,
+      "param": 178
+    },
+    {
+      "cost": 278,
+      "id": 130280,
+      "lv": 80,
+      "param": 179
+    },
+    {
+      "cost": 279,
+      "id": 130281,
+      "lv": 81,
+      "param": 180
+    },
+    {
+      "cost": 281,
+      "id": 130282,
+      "lv": 82,
+      "param": 181
+    },
+    {
+      "cost": 282,
+      "id": 130283,
+      "lv": 83,
+      "param": 182
+    },
+    {
+      "cost": 284,
+      "id": 130284,
+      "lv": 84,
+      "param": 183
+    },
+    {
+      "cost": 286,
+      "id": 130285,
+      "lv": 85,
+      "param": 184
+    },
+    {
+      "cost": 287,
+      "id": 130286,
+      "lv": 86,
+      "param": 185
+    },
+    {
+      "cost": 289,
+      "id": 130287,
+      "lv": 87,
+      "param": 186
+    },
+    {
+      "cost": 291,
+      "id": 130288,
+      "lv": 88,
+      "param": 187
+    },
+    {
+      "cost": 294,
+      "id": 130289,
+      "lv": 89,
+      "param": 188
+    },
+    {
+      "cost": 296,
+      "id": 130290,
+      "lv": 90,
+      "param": 189
+    },
+    {
+      "cost": 298,
+      "id": 130291,
+      "lv": 91,
+      "param": 190
+    },
+    {
+      "cost": 301,
+      "id": 130292,
+      "lv": 92,
+      "param": 191
+    },
+    {
+      "cost": 303,
+      "id": 130293,
+      "lv": 93,
+      "param": 192
+    },
+    {
+      "cost": 306,
+      "id": 130294,
+      "lv": 94,
+      "param": 193
+    },
+    {
+      "cost": 309,
+      "id": 130295,
+      "lv": 95,
+      "param": 194
+    },
+    {
+      "cost": 312,
+      "id": 130296,
+      "lv": 96,
+      "param": 195
+    },
+    {
+      "cost": 315,
+      "id": 130297,
+      "lv": 97,
+      "param": 196
+    },
+    {
+      "cost": 318,
+      "id": 130298,
+      "lv": 98,
+      "param": 197
+    },
+    {
+      "cost": 321,
+      "id": 130299,
+      "lv": 99,
+      "param": 198
+    },
+    {
+      "cost": 324,
+      "id": 1302100,
+      "lv": 100,
+      "param": 199
+    },
+    {
+      "cost": 327,
+      "id": 1302101,
+      "lv": 101,
+      "param": 200
+    },
+    {
+      "cost": 330,
+      "id": 1302102,
+      "lv": 102,
+      "param": 201
+    },
+    {
+      "cost": 330,
+      "id": 1302103,
+      "lv": 103,
+      "param": 202
+    },
+    {
+      "cost": 331,
+      "id": 1302104,
+      "lv": 104,
+      "param": 203
+    },
+    {
+      "cost": 332,
+      "id": 1302105,
+      "lv": 105,
+      "param": 204
+    },
+    {
+      "cost": 333,
+      "id": 1302106,
+      "lv": 106,
+      "param": 205
+    },
+    {
+      "cost": 334,
+      "id": 1302107,
+      "lv": 107,
+      "param": 206
+    },
+    {
+      "cost": 335,
+      "id": 1302108,
+      "lv": 108,
+      "param": 207
+    },
+    {
+      "cost": 336,
+      "id": 1302109,
+      "lv": 109,
+      "param": 208
+    },
+    {
+      "cost": 338,
+      "id": 1302110,
+      "lv": 110,
+      "param": 209
+    },
+    {
+      "cost": 339,
+      "id": 1302111,
+      "lv": 111,
+      "param": 210
+    },
+    {
+      "cost": 340,
+      "id": 1302112,
+      "lv": 112,
+      "param": 211
+    },
+    {
+      "cost": 342,
+      "id": 1302113,
+      "lv": 113,
+      "param": 212
+    },
+    {
+      "cost": 344,
+      "id": 1302114,
+      "lv": 114,
+      "param": 213
+    },
+    {
+      "cost": 345,
+      "id": 1302115,
+      "lv": 115,
+      "param": 214
+    },
+    {
+      "cost": 347,
+      "id": 1302116,
+      "lv": 116,
+      "param": 215
+    },
+    {
+      "cost": 349,
+      "id": 1302117,
+      "lv": 117,
+      "param": 216
+    },
+    {
+      "cost": 351,
+      "id": 1302118,
+      "lv": 118,
+      "param": 217
+    },
+    {
+      "cost": 352,
+      "id": 1302119,
+      "lv": 119,
+      "param": 218
+    },
+    {
+      "cost": 354,
+      "id": 1302120,
+      "lv": 120,
+      "param": 219
+    },
+    {
+      "cost": 356,
+      "id": 1302121,
+      "lv": 121,
+      "param": 220
+    },
+    {
+      "cost": 358,
+      "id": 1302122,
+      "lv": 122,
+      "param": 221
+    },
+    {
+      "cost": 360,
+      "id": 1302123,
+      "lv": 123,
+      "param": 222
+    },
+    {
+      "cost": 363,
+      "id": 1302124,
+      "lv": 124,
+      "param": 223
+    },
+    {
+      "cost": 365,
+      "id": 1302125,
+      "lv": 125,
+      "param": 224
+    },
+    {
+      "cost": 367,
+      "id": 1302126,
+      "lv": 126,
+      "param": 225
+    },
+    {
+      "cost": 370,
+      "id": 1302127,
+      "lv": 127,
+      "param": 226
+    },
+    {
+      "cost": 370,
+      "id": 1302128,
+      "lv": 128,
+      "param": 227
+    },
+    {
+      "cost": 371,
+      "id": 1302129,
+      "lv": 129,
+      "param": 228
+    },
+    {
+      "cost": 372,
+      "id": 1302130,
+      "lv": 130,
+      "param": 229
+    },
+    {
+      "cost": 373,
+      "id": 1302131,
+      "lv": 131,
+      "param": 230
+    },
+    {
+      "cost": 374,
+      "id": 1302132,
+      "lv": 132,
+      "param": 231
+    },
+    {
+      "cost": 375,
+      "id": 1302133,
+      "lv": 133,
+      "param": 232
+    },
+    {
+      "cost": 376,
+      "id": 1302134,
+      "lv": 134,
+      "param": 233
+    },
+    {
+      "cost": 378,
+      "id": 1302135,
+      "lv": 135,
+      "param": 234
+    },
+    {
+      "cost": 379,
+      "id": 1302136,
+      "lv": 136,
+      "param": 235
+    },
+    {
+      "cost": 380,
+      "id": 1302137,
+      "lv": 137,
+      "param": 236
+    },
+    {
+      "cost": 382,
+      "id": 1302138,
+      "lv": 138,
+      "param": 237
+    },
+    {
+      "cost": 384,
+      "id": 1302139,
+      "lv": 139,
+      "param": 238
+    },
+    {
+      "cost": 385,
+      "id": 1302140,
+      "lv": 140,
+      "param": 239
+    },
+    {
+      "cost": 387,
+      "id": 1302141,
+      "lv": 141,
+      "param": 240
+    },
+    {
+      "cost": 389,
+      "id": 1302142,
+      "lv": 142,
+      "param": 241
+    },
+    {
+      "cost": 391,
+      "id": 1302143,
+      "lv": 143,
+      "param": 242
+    },
+    {
+      "cost": 392,
+      "id": 1302144,
+      "lv": 144,
+      "param": 243
+    },
+    {
+      "cost": 394,
+      "id": 1302145,
+      "lv": 145,
+      "param": 244
+    },
+    {
+      "cost": 396,
+      "id": 1302146,
+      "lv": 146,
+      "param": 245
+    },
+    {
+      "cost": 398,
+      "id": 1302147,
+      "lv": 147,
+      "param": 246
+    },
+    {
+      "cost": 400,
+      "id": 1302148,
+      "lv": 148,
+      "param": 247
+    },
+    {
+      "cost": 403,
+      "id": 1302149,
+      "lv": 149,
+      "param": 248
+    },
+    {
+      "cost": 405,
+      "id": 1302150,
+      "lv": 150,
+      "param": 249
+    },
+    {
+      "cost": 407,
+      "id": 1302151,
+      "lv": 151,
+      "param": 250
+    },
+    {
+      "cost": 410,
+      "id": 1302152,
+      "lv": 152,
+      "param": 251
+    },
+    {
+      "cost": 410,
+      "id": 1302153,
+      "lv": 153,
+      "param": 252
+    },
+    {
+      "cost": 411,
+      "id": 1302154,
+      "lv": 154,
+      "param": 253
+    },
+    {
+      "cost": 412,
+      "id": 1302155,
+      "lv": 155,
+      "param": 254
+    },
+    {
+      "cost": 413,
+      "id": 1302156,
+      "lv": 156,
+      "param": 255
+    },
+    {
+      "cost": 414,
+      "id": 1302157,
+      "lv": 157,
+      "param": 256
+    },
+    {
+      "cost": 415,
+      "id": 1302158,
+      "lv": 158,
+      "param": 257
+    },
+    {
+      "cost": 416,
+      "id": 1302159,
+      "lv": 159,
+      "param": 258
+    },
+    {
+      "cost": 418,
+      "id": 1302160,
+      "lv": 160,
+      "param": 259
+    },
+    {
+      "cost": 419,
+      "id": 1302161,
+      "lv": 161,
+      "param": 260
+    },
+    {
+      "cost": 420,
+      "id": 1302162,
+      "lv": 162,
+      "param": 261
+    },
+    {
+      "cost": 422,
+      "id": 1302163,
+      "lv": 163,
+      "param": 262
+    },
+    {
+      "cost": 424,
+      "id": 1302164,
+      "lv": 164,
+      "param": 263
+    },
+    {
+      "cost": 425,
+      "id": 1302165,
+      "lv": 165,
+      "param": 264
+    },
+    {
+      "cost": 427,
+      "id": 1302166,
+      "lv": 166,
+      "param": 265
+    },
+    {
+      "cost": 429,
+      "id": 1302167,
+      "lv": 167,
+      "param": 266
+    },
+    {
+      "cost": 431,
+      "id": 1302168,
+      "lv": 168,
+      "param": 267
+    },
+    {
+      "cost": 432,
+      "id": 1302169,
+      "lv": 169,
+      "param": 268
+    },
+    {
+      "cost": 434,
+      "id": 1302170,
+      "lv": 170,
+      "param": 269
+    },
+    {
+      "cost": 436,
+      "id": 1302171,
+      "lv": 171,
+      "param": 270
+    },
+    {
+      "cost": 438,
+      "id": 1302172,
+      "lv": 172,
+      "param": 271
+    },
+    {
+      "cost": 440,
+      "id": 1302173,
+      "lv": 173,
+      "param": 272
+    },
+    {
+      "cost": 443,
+      "id": 1302174,
+      "lv": 174,
+      "param": 273
+    },
+    {
+      "cost": 445,
+      "id": 1302175,
+      "lv": 175,
+      "param": 274
+    },
+    {
+      "cost": 447,
+      "id": 1302176,
+      "lv": 176,
+      "param": 275
+    },
+    {
+      "cost": 450,
+      "id": 1302177,
+      "lv": 177,
+      "param": 276
+    },
+    {
+      "cost": 450,
+      "id": 1302178,
+      "lv": 178,
+      "param": 277
+    },
+    {
+      "cost": 451,
+      "id": 1302179,
+      "lv": 179,
+      "param": 278
+    },
+    {
+      "cost": 452,
+      "id": 1302180,
+      "lv": 180,
+      "param": 279
+    },
+    {
+      "cost": 453,
+      "id": 1302181,
+      "lv": 181,
+      "param": 280
+    },
+    {
+      "cost": 454,
+      "id": 1302182,
+      "lv": 182,
+      "param": 281
+    },
+    {
+      "cost": 455,
+      "id": 1302183,
+      "lv": 183,
+      "param": 282
+    },
+    {
+      "cost": 456,
+      "id": 1302184,
+      "lv": 184,
+      "param": 283
+    },
+    {
+      "cost": 458,
+      "id": 1302185,
+      "lv": 185,
+      "param": 284
+    },
+    {
+      "cost": 459,
+      "id": 1302186,
+      "lv": 186,
+      "param": 285
+    },
+    {
+      "cost": 460,
+      "id": 1302187,
+      "lv": 187,
+      "param": 286
+    },
+    {
+      "cost": 462,
+      "id": 1302188,
+      "lv": 188,
+      "param": 287
+    },
+    {
+      "cost": 464,
+      "id": 1302189,
+      "lv": 189,
+      "param": 288
+    },
+    {
+      "cost": 465,
+      "id": 1302190,
+      "lv": 190,
+      "param": 289
+    },
+    {
+      "cost": 467,
+      "id": 1302191,
+      "lv": 191,
+      "param": 290
+    },
+    {
+      "cost": 469,
+      "id": 1302192,
+      "lv": 192,
+      "param": 291
+    },
+    {
+      "cost": 471,
+      "id": 1302193,
+      "lv": 193,
+      "param": 292
+    },
+    {
+      "cost": 472,
+      "id": 1302194,
+      "lv": 194,
+      "param": 293
+    },
+    {
+      "cost": 474,
+      "id": 1302195,
+      "lv": 195,
+      "param": 294
+    },
+    {
+      "cost": 476,
+      "id": 1302196,
+      "lv": 196,
+      "param": 295
+    },
+    {
+      "cost": 478,
+      "id": 1302197,
+      "lv": 197,
+      "param": 296
+    },
+    {
+      "cost": 480,
+      "id": 1302198,
+      "lv": 198,
+      "param": 297
+    },
+    {
+      "cost": 483,
+      "id": 1302199,
+      "lv": 199,
+      "param": 298
+    },
+    {
+      "cost": 485,
+      "id": 1302200,
+      "lv": 200,
+      "param": 299
+    }
+  ],
+  "mission": [
+    {
+      "artId": "",
+      "buffParam": 0,
+      "buffType": 0,
+      "desc": "累积使用饵料打窝1000次",
+      "effect": "增加所有鱼类5%刷新几率",
+      "id": 1,
+      "name": "打窝仙人",
+      "param": 1000,
+      "typeParam": 1
+    },
+    {
+      "artId": "",
+      "buffParam": 0,
+      "buffType": 0,
+      "desc": "累积爆杆100次",
+      "effect": "所有鱼竿损坏几率降低10%",
+      "id": 2,
+      "name": "爆杆王",
+      "param": 100,
+      "typeParam": 2
+    },
+    {
+      "artId": "",
+      "buffParam": 0,
+      "buffType": 0,
+      "desc": "累积钓鱼失败1000次",
+      "effect": "每日第一次钓鱼时一定成功，参加钓鱼比赛时该BUFF无效",
+      "id": 3,
+      "name": "失败的钓鱼佬",
+      "param": 1000,
+      "typeParam": 3
+    },
+    {
+      "artId": "",
+      "buffParam": 0,
+      "buffType": 0,
+      "desc": "累积成功钓起1000条鱼",
+      "effect": "大鱼刷新率增加5%",
+      "id": 4,
+      "name": "钓鱼佬",
+      "param": 1000,
+      "typeParam": 4
+    },
+    {
+      "artId": "",
+      "buffParam": 0,
+      "buffType": 0,
+      "desc": "累积钓到100条草鱼、青鱼、鲢鱼、鳙鱼",
+      "effect": "增加其他鱼类1%刷新几率，降低草鱼、青鱼、鲢鱼、鳙鱼30%刷新几率",
+      "id": 5,
+      "name": "四大家鱼",
+      "param": 100,
+      "typeParam": 7
+    },
+    {
+      "artId": "",
+      "buffParam": 0,
+      "buffType": 0,
+      "desc": "累积使用体力药水100次",
+      "effect": "体力上限永久增加50点",
+      "id": 6,
+      "name": "西格玛男人",
+      "param": 100,
+      "typeParam": 8
+    }
+  ]
+}

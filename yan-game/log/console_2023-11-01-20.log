@@ -1,0 +1,9 @@
+[20:30:44][main] - HikariPool-1 - Starting...
+[20:30:53][main] - HikariPool-1 - Start completed.
+[20:30:53][main] - HikariPool-2 - Starting...
+[20:31:02][main] - HikariPool-2 - Start completed.
+[20:31:02][main] - 加载服务版本号成功, bigVersion=1, smallVersion=0
+[20:31:02][main] - 本服serverId为10001,后台端口为8080
+[20:31:19][main] - netty socket 服务已经启动，正在监听用户的请求@port:38996.......
+[20:55:43][HikariPool-1 housekeeper] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m19s390ms).
+[20:55:52][HikariPool-2 housekeeper] - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=9m19s385ms).

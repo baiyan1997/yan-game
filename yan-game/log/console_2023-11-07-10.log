@@ -1,0 +1,31 @@
+[10:11:03][main] - HikariPool-1 - Starting...
+[10:11:04][main] - HikariPool-1 - Start completed.
+[10:11:04][main] - HikariPool-2 - Starting...
+[10:11:04][main] - HikariPool-2 - Start completed.
+[10:11:04][main] - 加载服务版本号成功, bigVersion=1, smallVersion=0
+[10:11:34][main] - HikariPool-1 - Starting...
+[10:11:35][main] - HikariPool-1 - Start completed.
+[10:11:35][main] - HikariPool-2 - Starting...
+[10:11:35][main] - HikariPool-2 - Start completed.
+[10:11:35][main] - 加载服务版本号成功, bigVersion=1, smallVersion=0
+[10:11:35][main] - 本服serverId为10001,后台端口为8080
+[10:11:36][main] - netty socket 服务已经启动，正在监听用户的请求@port:38996.......
+[10:11:59][nioEventLoopGroup-3-1] - receive info:::::::::::::{"module":104,"cmd":1,"userId":"_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQ","fishId":1,"weight":2}
+[10:12:29][common business-1-thread-1] - sell item userId:_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQfishId:1weight:2
+[10:13:58][nioEventLoopGroup-3-1] - receive info:::::::::::::{"module":104,"cmd":1,"userId":"_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQ","fishId":1,"weight":2}
+[10:14:07][common business-0-thread-1] - sell item userId:_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQfishId:1weight:2
+[10:14:38][nioEventLoopGroup-3-1] - receive info:::::::::::::{"module":104,"cmd":1,"userId":"_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQ","fishId":1,"weight":3}
+[10:15:40][HikariPool-2 housekeeper] - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=59s824ms257µs900ns).
+[10:15:40][HikariPool-1 housekeeper] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=59s824ms205µs100ns).
+[10:15:41][common business-2-thread-1] - sell item userId:_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQfishId:1weight:3
+[10:16:20][nioEventLoopGroup-3-1] - receive info:::::::::::::{"module":104,"cmd":1,"userId":"_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQ","fishId":1,"weight":3}
+[10:16:26][common business-3-thread-1] - sell item userId:_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQfishId:1weight:3
+[10:16:44][nioEventLoopGroup-3-1] - receive info:::::::::::::{"module":104,"cmd":1,"userId":"_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQ","fishId":1,"weight":3}
+[10:17:05][common business-4-thread-1] - sell item userId:_000Ca_fCvpMNuEOpNzY2ffq5B7QegtVA9dQfishId:1weight:3
+[10:21:25][main] - HikariPool-1 - Starting...
+[10:21:26][main] - HikariPool-1 - Start completed.
+[10:21:26][main] - HikariPool-2 - Starting...
+[10:21:26][main] - HikariPool-2 - Start completed.
+[10:21:26][main] - 加载服务版本号成功, bigVersion=1, smallVersion=0
+[10:21:26][main] - 本服serverId为10001,后台端口为8080
+[10:21:27][main] - netty socket 服务已经启动，正在监听用户的请求@port:38996.......

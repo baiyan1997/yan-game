@@ -1,0 +1,26 @@
+// 捕鱼
+{"module":105,"cmd":1,"mapId":1,"itemIdList":[1001,1006,1010,1014],"userId":1}
+// 注册
+{"module":102,"cmd":1,"userId":1,"password":"123","name":"baiyan"}
+// 登录
+{"module":101,"cmd":1,"userId":1}
+// 购买物品
+{"module":103,"cmd":1,"userId":1,"itemId":1003,"count":1}
+// 使用道具
+{"module":106,"cmd":1,"userId":1,"itemId":1001}
+{"module":107,"cmd":1,"userId":1,"mapId":1,"fishId":5,"weight":5}
+// 卖鱼
+{"module":104,"cmd":1,"userId":1,"fishId":5}
+// 登录信息
+{"module":108,"cmd":1,"userId":1}
+// 看广告增加道具 1 金币 2 体力
+{"module":110,"cmd":1,"userId":1,"type":1}
+106 使用道具
+101 登录状态
+102 登录data
+103 购买道具
+104 钓鱼回复
+105 钓鱼回复第二次
+106 登录增加道具信息
+107 获得成就
+108 兌換道具

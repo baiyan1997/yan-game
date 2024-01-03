@@ -1,0 +1,3 @@
+[08:48:39][HikariPool-1 housekeeper] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h38m40s777ms).
+[08:57:54][HikariPool-2 housekeeper] - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h15m9s507ms).
+[08:58:15][HikariPool-1 housekeeper] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m35s968ms).
